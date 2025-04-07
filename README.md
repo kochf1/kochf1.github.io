@@ -1,12 +1,8 @@
 
 
-<center>
-
 ![](./images/fkoch-banner.png)
 
 ### Researcher | Technologist | Startup Advisor | Co-Founder
-
-</center>
 
 
 ### About Me
