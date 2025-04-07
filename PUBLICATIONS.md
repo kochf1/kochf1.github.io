@@ -5,7 +5,7 @@
 
 
 
-## Books
+### Books
 
 1. [Evolutionary Computing and Artificial Intelligence](https://link.springer.com/book/10.1007/978-981-13-6936-0), 2019. Communications in Computer and Information Systems (CCIS), Vol 999, Pub Springer, Singapore. 131 pp. F.L. Koch, A. Yoshikawa: S. Wang: T. Terano (eds.)
 1. [Artificial Intelligence in Health](https://www.springer.com/gp/book/9783030127374), 2019. Lecture Notes in Artificial intelligence (LNAI), Vol 11326, Pub Springer International Publishing. 245 pp. F.L. Koch, A.Koster, D. Riano, S. Montagna, M. Schumacher, A. Teije, C. Guttmann, M. Reichert, I. Bichindaritz, P. Herrero, R. Lenz, B.Lopez, C. Marling,  C. Martin, S. Montani, N. Wiratunga (eds.)
@@ -15,7 +15,7 @@
 1. [Agent Technology for Intelligent Mobile Services and Smart Societies](https://www.springer.com/gp/book/9783662462409), 2015. Communications in Computer and Information Systems (CCIS), Vol 498, Pub Springer-Verlag Berlin Heidelberg. 127 pp. F.L. Koch, F. Meneguzzi, K. Lakkaraju (eds.)
 
 
-## Papers
+### Papers
 
 1. [Multi-Agent Architecture in Distributed Environment Control Systems: vision, challenges, and opportunities](https://arxiv.org/pdf/2502.15663), 2025. arXiv preprint arXiv:2502.15663. N. Astudillo, F.L. Koch.
 1. [Performance of security options for message protocols: A comparative analysis](https://onlinelibrary.wiley.com/doi/abs/10.1002/nem.2274), 2024. International Journal of Network Management. W.R. Bezerra, F.L. Koch, C.B. Westphall.
@@ -107,7 +107,7 @@
 1. [Avaliação de Variações da Configuração de Agentes Móveis na Gerência de Redes](https://www.researchgate.net/profile/Carlos-Westphall/publication/254862018_Avaliacao_de_Variacoes_da_Configuracao_de_Agentes_Moveis_na_Gerencia_de_Redes/links/00b7d51fe75b6e5744000000/Avaliacao-de-Variacoes-da-Configuracao-de-Agentes-Moveis-na-Gerencia-de-Redes.pdf), 2002. Anais do International Information Technology Symposium-I2TS. E. Xavier, F.L. Koch, C.B. Westphall.
 1. [Decentralized Network Management Using Distributed Artificial Intelligence](https://link.springer.com/article/10.1023/A:1012976206591), 2001. Journal of Network and Systems Management, 9(4), 375-388, Springer. F.L. Koch, C.B. Westphall.
 
-## Patents
+### Patents
 
 1.  [System, Method and Program Product for Local Client Device Context-Aware Shared Resource and Service Management](https://patents.google.com/patent/US8676985B2/en), 2014. USPTO 8676985 B2. M.D.Assuncao, J.Kraemer, F.L.Koch, M.A.S.Netto
 1.  [System, Method and Program Product for Local Client Device Context-Aware Shared Resource and Service Management](https://patents.google.com/patent/US20140006620A1/en), 2014. USPTO 20140006620 A1. M.D.Assuncao, J.Kraemer, F.L.Koch, M.A.S.Netto
