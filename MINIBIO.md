@@ -1,10 +1,8 @@
-<center>
 
 ![](./images/fkoch-banner.png)
 
-### Researcher | Technologist | Startup Advisor | Co-Founder
+### Researcher | Technologist | Startup Advisor | Investor | Founder
 
-</center>
 
 ## Mini Bio
 
