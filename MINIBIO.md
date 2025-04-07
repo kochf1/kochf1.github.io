@@ -1,10 +1,11 @@
 
 <center>
 <img src="http://www.fernandokoch.me/images/fkoch-banner.png">
-
-### Researcher | Technologist | Startup Advisor | Investor | Founder
-
+<br/>
+<h3>Researcher | Technologist | Startup Advisor | Investor | Founder</h3>
 </center>
+
+
 
 ### Mini Bio
 
