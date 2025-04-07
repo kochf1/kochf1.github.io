@@ -43,6 +43,6 @@
 
 * [LinkedIN](https://www.linkedin.com/in/fkoch/)
 * [Google Scholar](https://scholar.google.com/citations?user=-jD2UDsAAAAJ&hl=en&oi=ao)
-* [Minibio](http://www.fernandokoch.me/minibio.html)
+* [Minibio](MINIBIO.md)
 
 
