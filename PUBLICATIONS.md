@@ -1,71 +1,26 @@
-<html>
-    <head>
-        <!-- Google tag (gtag.js) -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-R2SGGRD519"></script>
-    <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
+<center>
 
-    gtag('config', 'G-R2SGGRD519');
-    </script>
-    
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>Centered Content Page</title>
-        <style>
-            body {
-                max-width: 550px;
-                padding: 10px;
-                background-color: #ffffff;
-                font-size: 15px; 
-                font-family: Arial, sans-serif;
-                margin: 0 auto;
-                justify-content: center;
-                align-items: center;
-            }
-            img {
-                max-width: 550px;
-                width: 100%;
-                filter: grayscale(0%);
-                transition: filter 0.5s ease;
-            }
+![](./images/fkoch-banner.png)
 
-            img:hover {
-                filter: grayscale(100%);
-            }
-        </style>
-    </head>
-<body>
-    <center>
-        <a href=""http://www.fernandokoch.me/">
-        <img src="https://github.com/kochf1/kochf1.github.io/blob/15dede97d6b50ca8b65b1bfd2942b8c8a9a929c0/images/fkoch-banner.jpg?raw=true" alt="Dr Fernando Koch">
-        </a>
-        <p></p>        
-        <a href="http://www.fernandokoch.me/" style="color: black; text-decoration: none; font-size: 1.6em; font-weight: bold;">Dr. Fernando Koch</a><br/>
-           <b>Researcher</b> | <b>Technologist</b> | <b>Startup Advisor</b> | <b>Founder</b>
-    </center>
-    <p><br/></p>
+### Researcher | Technologist | Startup Advisor | Co-Founder
 
-    <h2>Publication</h2>
-    <ul>
-        <li><a href="https://scholar.google.com/citations?hl=en&user=-jD2UDsAAAAJ">Google Scholar</a>
-    </ul>
+</center>
 
-    <a name="books"></a>
-    <h3>Books</h3>
-    <ol type='1'>
-        <li><a href='https://link.springer.com/book/10.1007/978-981-13-6936-0' target='_blank'>Evolutionary Computing and Artificial Intelligence</a>, 2019. Communications in Computer and Information Systems (CCIS), Vol 999, Pub Springer, Singapore. 131 pp. F.L. Koch, A. Yoshikawa: S. Wang: T. Terano (eds.)
-        <li><a href='https://www.springer.com/gp/book/9783030127374' target='_blank'>Artificial Intelligence in Health</a>, 2019. Lecture Notes in Artificial intelligence (LNAI), Vol 11326, Pub Springer International Publishing. 245 pp. F.L. Koch, A.Koster, D. Riano, S. Montagna, M. Schumacher, A. Teije, C. Guttmann, M. Reichert, I. Bichindaritz, P. Herrero, R. Lenz, B.Lopez, C. Marling,  C. Martin, S. Montani, N. Wiratunga (eds.)
-        <li><a href='https://www.springer.com/gp/book/9783319520384' target='_blank'>Advances in Social Computing and Digital Education</a>, 2016. Communications in Computer and Information Systems (CCIS), Vol 677, Pub Springer International Publishing. 169 pp. F.L. Koch, A. Koster, T. Primo (eds.)
-        <li><a href='https://www.springer.com/gp/book/9783319396712' target='_blank'>Social Computing in Digital Education</a>, 2016. Communications in Computer and Information Systems (CCIS), Vol 606, Pub Springer International Publishing. 141 pp. F.L. Koch, A. Koster, T. Primo (eds.)
-        <li><a href='https://www.springer.com/gp/book/9783319248035' target='_blank'>Advances in Social Computing and Multiagent Systems</a>, 2015. Communications in Computer and Information Systems (CCIS), Vol 541, Pub Springer International Publishing. 203 pp. F.L. Koch, C. Guttmann, D. Busquets (eds.)
-        <li><a href='https://www.springer.com/gp/book/9783662462409' target='_blank'>Agent Technology for Intelligent Mobile Services and Smart Societies</a>, 2015. Communications in Computer and Information Systems (CCIS), Vol 498, Pub Springer-Verlag Berlin Heidelberg. 127 pp. F.L. Koch, F. Meneguzzi, K. Lakkaraju (eds.)
-    </ol>
-    
-    <a name="papers"></a>
-    <h3>Papers</h3>
-    <ol type='1'>
+## Books
+
+<ol type='1'>
+    <li><a href='https://link.springer.com/book/10.1007/978-981-13-6936-0' target='_blank'>Evolutionary Computing and Artificial Intelligence</a>, 2019. Communications in Computer and Information Systems (CCIS), Vol 999, Pub Springer, Singapore. 131 pp. F.L. Koch, A. Yoshikawa: S. Wang: T. Terano (eds.)
+    <li><a href='https://www.springer.com/gp/book/9783030127374' target='_blank'>Artificial Intelligence in Health</a>, 2019. Lecture Notes in Artificial intelligence (LNAI), Vol 11326, Pub Springer International Publishing. 245 pp. F.L. Koch, A.Koster, D. Riano, S. Montagna, M. Schumacher, A. Teije, C. Guttmann, M. Reichert, I. Bichindaritz, P. Herrero, R. Lenz, B.Lopez, C. Marling,  C. Martin, S. Montani, N. Wiratunga (eds.)
+    <li><a href='https://www.springer.com/gp/book/9783319520384' target='_blank'>Advances in Social Computing and Digital Education</a>, 2016. Communications in Computer and Information Systems (CCIS), Vol 677, Pub Springer International Publishing. 169 pp. F.L. Koch, A. Koster, T. Primo (eds.)
+    <li><a href='https://www.springer.com/gp/book/9783319396712' target='_blank'>Social Computing in Digital Education</a>, 2016. Communications in Computer and Information Systems (CCIS), Vol 606, Pub Springer International Publishing. 141 pp. F.L. Koch, A. Koster, T. Primo (eds.)
+    <li><a href='https://www.springer.com/gp/book/9783319248035' target='_blank'>Advances in Social Computing and Multiagent Systems</a>, 2015. Communications in Computer and Information Systems (CCIS), Vol 541, Pub Springer International Publishing. 203 pp. F.L. Koch, C. Guttmann, D. Busquets (eds.)
+    <li><a href='https://www.springer.com/gp/book/9783662462409' target='_blank'>Agent Technology for Intelligent Mobile Services and Smart Societies</a>, 2015. Communications in Computer and Information Systems (CCIS), Vol 498, Pub Springer-Verlag Berlin Heidelberg. 127 pp. F.L. Koch, F. Meneguzzi, K. Lakkaraju (eds.)
+</ol>
+
+
+## Papers
+
+<ol type='1'>
         <li><a href='https://onlinelibrary.wiley.com/doi/abs/10.1002/nem.2274' target='_blank'>Performance of security options for message protocols: A comparative analysis</a>, 2024, International Journal of Network Management. W.R. Bezerra, F.L. Koch, C.B. Westphall.</li>
         <li><a href='https://priorart.ip.com/IPCOM/00274743D' target='_blank'>Enhancing Collaborative Interactions in Multi-Agent Environments</a>, 2024, InnovationQ. P.L. Virgen, H.O. Cervantes, A.A. Jimenez, F.L. Koch.</li>
         <li><a href='https://link.springer.com/article/10.1007/s10922-024-09839-3' target='_blank'>Distributed AgriFood supply chains</a>, 2024, Journal of Network and Systems Management. H.S. Pesanhane, W.R. Bezerra, F.L. Koch, C.B. Westphall.</li>
@@ -154,12 +109,12 @@
         <li><a href='' target='_blank'>Project AgentLight: Developing Logic-based Autonomous Agents for Small Devices</a>, 2002, Workshop of Thesis and Dissertations on Artificial Intelligence . F.L. Koch, J.J. Meyer.</li>
         <li><a href='https://www.researchgate.net/profile/Carlos-Westphall/publication/254862018_Avaliacao_de_Variacoes_da_Configuracao_de_Agentes_Moveis_na_Gerencia_de_Redes/links/00b7d51fe75b6e5744000000/Avaliacao-de-Variacoes-da-Configuracao-de-Agentes-Moveis-na-Gerencia-de-Redes.pdf' target='_blank'>Avaliação de Variações da Configuração de Agentes Móveis na Gerência de Redes</a>, 2002, Anais do International Information Technology Symposium-I2TS. E. Xavier, F.L. Koch, C.B. Westphall.</li>
         <li><a href='https://link.springer.com/article/10.1023/A:1012976206591' target='_blank'>Decentralized Network Management Using Distributed Artificial Intelligence</a>, 2001, Journal of Network and Systems Management, 9(4), 375-388, Springer. F.L. Koch, C.B. Westphall.</li>
-        </ol>
+</ol>
 
 
-    <a name="patents"></a>
-    <h3>Patents</h3>
-    <ol type='1'>
+## Patents
+
+<ol type='1'>
         <li> <a href='https://patents.google.com/patent/US20230168992A1/en' target='_blank'>System, Method and Program Product for Local Client Device Context-Aware Shared Resource and Service Management</a>, 2014, USPTO 20140006602A1. F.L. Koch, M.A. Netto, D.J. Hunt.</li>
         <li> <a href='https://patents.google.com/patent/US11316886/en' target='_blank'>Metodo para Pagamento Movel Seguro e Etiqueta de RF com Dispositivo Antifurto Integrado</a>, 2014, INPI BR1020140042067. M.S. Netto, V.F. Santana, B. Silva, R.L. Cunha, F.L. Koch.</li>
         <li> <a href='https://patents.google.com/patent/US11210108/en' target='_blank'>Metodo para Autenticacao de Transacoes Moveis Usando Criptografia de Video e Metodo para Criptografia de Video</a>, 2014, INPI BR1020140076662. B. Silva, R.F. Cunha, M.A. Netto, V.F. Santana, F.L. Koch.</li>
@@ -261,11 +216,8 @@
         <li> Sensor-Adaptive Content Generation in Mobile Generative AI, 2024, to be published. F.L. Koch and others*.</li>
         <li> Environmental Variability Adjustment in Sensor Operations Utilizing Large AI Models, 2024, to be published. F.L. Koch and others*.</li>
         <li> Sensor-Driven Fluid Orchestration in Mobile Generative AI for Multi-User Content Creation, 2024, to be published. F.L. Koch and others*.</li>
-        </ol>
-        (*) list of authors protected for  patents yet to be published.
-        <p><br></p>
-        
-        <p><br></p>
-        <center>---</center>
-    </body>
-    </html>
+</ol>
+
+(*) list of authors protected for  patents yet to be published.
+
+
