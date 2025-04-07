@@ -5,7 +5,6 @@
 ### Researcher | Technologist | Startup Advisor | Co-Founder
 
 
-### About Me
 
 * Research Professor at Florida Atlantic University
 * The Generative Intelligence Lab, Head
