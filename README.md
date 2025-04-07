@@ -1,10 +1,11 @@
 
 
-![](./images/fkoch-banner.png)
+<center>
+<img src="http://www.fernandokoch.me/images/fkoch-banner.png">
 
 ### Researcher | Technologist | Startup Advisor | Investor | Founder
 
-
+</center>
 
 * Research Professor at Florida Atlantic University
 * The Generative Intelligence Lab, Head

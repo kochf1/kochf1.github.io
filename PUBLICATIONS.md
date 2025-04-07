@@ -1,8 +1,10 @@
 
-![](./images/fkoch-banner.png)
+<center>
+<img src="http://www.fernandokoch.me/images/fkoch-banner.png">
 
 ### Researcher | Technologist | Startup Advisor | Investor | Founder
 
+</center>
 
 
 ### Books
