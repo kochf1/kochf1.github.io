@@ -32,11 +32,11 @@ I encourage students to think deeply about the significance and relevance of the
 ### Delivering Results
 
 A successful research program should aim to deliver tangible, scholarly outcomes such as:
-* Peer-reviewed publications
-* A robust and reusable research framework
-* Prototypes or technical demonstrations
-* Intellectual Property (patents, disclosures)
-* Competitive grant proposals
+* Peer-reviewed publications.
+* A robust and reusable **research framework**.
+* Prototypes or technical demonstrations.
+* Intellectual Property (patents, disclosures).
+* Competitive grant proposals.
 
 
 Publications should be targeted toward reputable, high-visibility venues, ideally those that contribute to departmental metrics such as [CSRankings](https://csrankings.org)
