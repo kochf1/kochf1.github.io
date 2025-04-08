@@ -3,7 +3,6 @@
 
 ### Researcher | Technologist | Startup Advisor | Investor | Founder
 
-
 * Research Professor at Florida Atlantic University
 * The Generative Intelligence Lab, Head
 * Engineering Entrepreneurship Club, Faculty Advisor

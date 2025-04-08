@@ -3,7 +3,6 @@
 
 ### Researcher | Technologist | Startup Advisor | Investor | Founder
 
-
 ## My Philosophy on Academic Advisory
 
 Thank you for considering me as your academic advisor.
