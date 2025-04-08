@@ -11,7 +11,7 @@ def main():
 
     # Define resize tasks
     resize_tasks = [
-        {"pattern": "*-banner.png", "size": (None, 250)},
+        {"pattern": "*-banner.png", "size": (None, 300)},
         {"pattern": "*-headshot.png", "size": (None, 200)},  # Maintain aspect ratio
     ]
 
