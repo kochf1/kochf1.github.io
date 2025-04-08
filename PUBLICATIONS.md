@@ -3,6 +3,7 @@
 
 ### Researcher | Technologist | Startup Advisor | Investor | Founder
 
+
 ### Books
 
 1. [Evolutionary Computing and Artificial Intelligence](https://link.springer.com/book/10.1007/978-981-13-6936-0), 2019. Communications in Computer and Information Systems (CCIS), Vol 999, Pub Springer, Singapore. 131 pp. F.L. Koch, A. Yoshikawa: S. Wang: T. Terano (eds.)
