@@ -25,9 +25,9 @@
 ### Academics
 
 * Ph.D. in Computer Science, Utrecht University (2009)
-* [6 books](./PUBLICATIONS.md#books)
-* [80+ scientific papers](./PUBLICATIONS.md#papers)
-* [100+ patents](./PUBLICATIONS.md#patents)
+* [6 books](./publications.md#books)
+* [80+ scientific papers](./publications.md#papers)
+* [100+ patents](./publications.md#patents)
 
 
 ### Teaching
@@ -41,6 +41,6 @@
 
 * [LinkedIN](https://www.linkedin.com/in/fkoch/)
 * [Google Scholar](https://scholar.google.com/citations?hl=en&user=-jD2UDsAAAAJ&view_op=list_works&sortby=pubdate)
-* [Minibio](MINIBIO.md)
+* [Minibio](./minibio.md)
 
 
