@@ -9,4 +9,5 @@ Dr. Fernando Koch is a Research Professor at Florida Atlantic University, where 
 
 
 * [LinkedIN](https://www.linkedin.com/in/fkoch/)
+* [Google Scholar](https://scholar.google.com/citations?hl=en&user=-jD2UDsAAAAJ&view_op=list_works&sortby=pubdate)
 * [Publications](./publications.md)
