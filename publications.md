@@ -1,4 +1,3 @@
-
 ![](./images/fkoch-banner.png)
 
 ### Researcher | Technologist | Startup Advisor | Investor | Founder
