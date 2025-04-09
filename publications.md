@@ -3,7 +3,7 @@
 
 ### Researcher | Technologist | Startup Advisor | Investor | Founder
 
-.
+<br/>
 
 ### Books
 
