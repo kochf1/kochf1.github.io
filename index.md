@@ -4,9 +4,9 @@
 ### Researcher | Technologist | Startup Advisor | Investor | Founder
 
 
-* Research Professor at Florida Atlantic University
-* The Generative Intelligence Lab, Head
-* Engineering Entrepreneurship Club, Faculty Advisor
+* [Research Professor](https://www.fau.edu/engineering/directory/faculty/koch/) at Florida Atlantic University
+* [The Generative Intelligence Lab](http://www.generativeintelligencelab.ai), Head
+* [Engineering Entrepreneurship Club](http://www.faueec.org), Faculty Advisor 
 
 ### Researcher and Practitioner
 
