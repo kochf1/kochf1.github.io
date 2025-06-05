@@ -18,7 +18,6 @@
 
 ### Industry
 
-* Co-founder at [LangSmart](http://www.langsmart.ai)
 * ex-Samsung Research, ex-IBM Research
 * ex-IBM, ex-Openwave
 
