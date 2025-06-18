@@ -4,17 +4,16 @@
 ### Researcher | Technologist | Startup Advisor | Investor | Founder
 
 
-* [Research Professor](https://www.fau.edu/engineering/directory/faculty/koch/) at Florida Atlantic University
-* [The Generative Intelligence Lab](http://www.generativeintelligencelab.ai), Head
-* [Engineering Entrepreneurship Club](http://www.faueec.org), Faculty Advisor 
+* [Research Professor](https://www.fau.edu/engineering/directory/faculty/koch/) at Florida Atlantic University.
+* Head of the [The Generative Intelligence Lab](http://www.generativeintelligencelab.ai).
+* Faculty Advisor of the [Engineering Entrepreneurship Club](http://www.faueec.org).
 
 ### Researcher and Practitioner
 
 * [Generative Intelligence](https://medium.com/generative-intelligence-lab/generative-intelligence-systems-concepts-and-research-opportunities-0740b1b5c7eb)
-* Multi-Agent Systems
 * Hybrid AI
+* [Collective Intelligence](https://medium.com/generative-intelligence-lab/collective-intelligence-concepts-and-research-opportunities-6130ef044114)
 * Edge AI
-
 
 ### Industry
 
@@ -27,7 +26,6 @@
 * [6 books](./publications.md#books)
 * [80+ scientific papers](./publications.md#papers)
 * [100+ patents](./publications.md#patents)
-
 
 ### Teaching
 
