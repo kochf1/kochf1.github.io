@@ -29,7 +29,7 @@
 
 ### Teaching
 
-* [COT 6930 - Generative AI in SDLC](https://fau.simplesyllabus.com/doc/nre6c4z6g/Spring-2025-1-Full-Term-COT-6930-001-Topics-in-Computer-Science?mode=view)
+* [COT6930 - Generative AI in Software Development Lifecycles](https://fau.simplesyllabus.com/doc/nre6c4z6g/Spring-2025-1-Full-Term-COT-6930-001-Topics-in-Computer-Science?mode=view)
 * [CEN4010 - Software Engineering with Generative AI](https://fau.simplesyllabus.com/doc/yolipf0x2/Spring-2025-1-Full-Term-CEN-4010-001-Prin-Software-Engineering?mode=view)
 * [CAP4623 - Trustworthy AI](https://www.fau.edu/engineering/eecs/pdf/syllabus-trustworthy-artificial-intelligence-fall-2024.pdf)
 
