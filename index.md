@@ -14,8 +14,6 @@
 * [100+ patents](./publications.md#patents).
 
 <br/>
----
-<br/>
 
 I like to build platforms -- whether they are software platforms, collaboration hubs, or systems that orchestrate human-machine interactions. I believe building platforms is about creating connections between software, hardware, and minds.  Platforms have the power of organization, generating re-usable components to viability and fast-react production. They make us more productive, drive organizations toward greater efficiency, and elevate society. 
 
