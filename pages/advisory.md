@@ -13,70 +13,67 @@ If we focus on real problems, pursue rigorous inquiry, and deliver tangible resu
 
 I guide researchers in pursuing work that is meaningful, measurable, and high-impact. The foundation of this approach is simple but powerful: find a problem that matters—both to the world and to you.
 
-### Starting Strong
+## Starting Strong
 
-Every impactful research journey begins with identifying a problem that is not only intellectually challenging but also personally resonant.
+Every impactful research journey begins with identifying a **intriguing research questions**! This should be a problem that is not only intellectually challenging and personally resonant.
 
-Once you’ve found that problem, the next steps are:
-* Define a strong, guiding Research Question
-* Build your argument:
+Once you’ve found that problem, the next step is to put a **Research Proposal** outlining:
+* Your Intriguing Research Question
+* Your argument:
     * Why does this problem exist?
     * What is currently missing in solving it?
     * Why have these gaps remained unaddressed?
     * How will your proposed research contribute toward a solution?
     * Why does your contribution matter?
 
-I encourage students to think deeply about the significance and relevance of their work—not just in academic terms, but in how it can influence the world.
+## Delivering Results
 
-
-### Delivering Results
-
-A successful research program should aim to deliver tangible, scholarly outcomes such as:
+A successful research program should aim to deliver **Scholarly Outcomes** in terms of:
 * Peer-reviewed publications.
 * A robust and reusable **research framework**.
 * Prototypes or technical demonstrations.
 * Intellectual Property (patents, disclosures).
 * Competitive grant proposals.
 
-
 Publications should be targeted toward reputable, high-visibility venues, ideally those that contribute to departmental metrics such as [CSRankings](https://csrankings.org)
 
-The **research framework** can take many forms: research tools, experimental setups, documented methodologies, or guidelines for applying your research to real-world use cases. Well-structured and documented, this framework should support the Ph.D. journey, foster collaboration, enable demonstrations, and help integrate contributions from master's and undergraduate projects. It should also serve as a launchpad for future research efforts.
+The **research framework** can take many forms: research tools, experimental setups, documented methodologies, or guidelines for applying your research to real-world use cases.
+
 These deliverables serve as milestones, helping to validate your research, guide your progress, and ensure that your efforts lead to measurable, impactful results.
 
-### Postdoctoral Research Program
+## Postdoctoral Research Programs
 
 For postdocs, the bar is higher in terms of originality and leadership. A robust postdoc research agenda should include:
-* 1 vision paper that frames research challenges and opportunities in a focused domain.
-* A structured and reusable research framework, capable of supporting collaboration and future extensions.
-* 1 results paper, presenting high-quality, peer-reviewed findings.
-* 1–2 well-crafted grant applications, opening pathways for independent research and funding.
+* **Vision Paper** that frames research challenges and opportunities in a focused domain.
+* **Structured Research Framework**, capable of supporting collaboration and future extensions.
+* **Result Paper**, presenting high-quality, peer-reviewed findings.
+* **Grant Application(s)**, opening pathways for independent research and funding.
+
+## PhD Research Programs
+
+For PhD students, the goal is to develop deep expertise, produce original contributions to knowledge, and shape the direction of research in a chosen area. A PhD students should be able to
+**formulate a significant and novel research question** with clear theoretical or practical impact
+
+Hence, the emphasis is on **advancing knowledge and demonstrating independent research capability**.
+
+I advocate putting together a solid **Research Plan**, following the pointers above (see [Starting Strong](#starting-strong)), and also articulating a plan towards Scholarly Output:
+
+* **Structured Research Framework**, capable of supporting your research project.
+* **Positioning Paper** outlining the novel direction or research gap.
+* **Results Paper(s)** showcasing key technical or conceptual advancements.
+* Contributions to Intellectual Property (patents).
+* Strong leads to competitive Grant Proposals.
 
 
-### PhD Advisory
+## Master's Research 
 
-For PhD candidates, I advocate a structured research plan that includes:
-* 1 comprehensive review of the state-of-the-art.
-* 1 positioning paper outlining the novel direction or research gap.
-* A well-defined research framework, with tools, methodologies, and experimental setups.
-* 1–2 results papers, showcasing key technical or conceptual advancements.
-* 1–2 contributions to intellectual property.
-* 1–2 strong leads to competitive grant proposals.
+For Master’s program, the goal is to develop solid research skills while contributing to a focused and meaningful project. Students should be able to (i) clearly articulate a research problem and its context, and (ii) apply relevant techniques to investigate or address.
 
+Hence, the emphasis is on learning **how to do research**. 
 
-### Master's Research 
+I suggest putting together a solid **Research Plan**, following the pointers above (see [Starting Strong](#starting-strong)) and then focusing on:
+* **Learning the Right Technique**, by building a learning path to master the tools, methods, or frameworks necessary to explore the problem. 
 
-For Master’s students, the goal is to develop solid research skills while contributing to a focused and meaningful project. 
-By the end of the program, the student should be able to:
-* Clearly articulate a research problem and its context
-* Apply relevant techniques to investigate or address it
-* Communicate findings effectively through writing and presentations
-
-
-Hence, the emphasis is on learning how to do research well -- and not covering a broad scope!
-Key Steps in this program include:
-1. **Define a Clear Problem**: start by identifying a problem that is well-scoped, relevant, and technically interesting. The problem should be challenging but achievable within the timeframe of the program.
-1. **Learn the Right Technique**: build a learning path to master the tools, methods, or frameworks necessary to explore the problem. This may include algorithms, experimental methods, domain-specific platforms, or technical frameworks.
-1. **Contribute to Scholarly Output**: Students should aim to contribute to at least one of the following:   
-    * A positioning paper outlining the research context, open questions, and proposed direction
-    * A results paper presenting experimental findings, validation, or a proof-of-concept
+* **Contributing to Scholarly Output**, by outlining a plan on how you can contribute to at least one of the following:   
+    * A **positioning paper** outlining the research context, open questions, and proposed direction;
+    * A **results paper** presenting experimental findings, validation, or a proof-of-concept.
