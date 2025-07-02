@@ -1,8 +1,7 @@
 
 ![](./images/fkoch-banner.png)
 
-### Researcher | Technologist | Startup Advisor | ex-Samsung, ex-IBM 
-
+### AI Leader | Research Professor | Technologist | Startup Advisor 
 
 * [Research Professor](https://www.fau.edu/engineering/directory/faculty/koch/) at Florida Atlantic University.
 * Head of the [The Generative Intelligence Lab](http://www.generativeintelligencelab.ai).

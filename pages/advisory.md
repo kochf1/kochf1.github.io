@@ -1,8 +1,7 @@
 
 ![](../images/fkoch-banner.png)
 
-### Researcher | Technologist | Startup Advisor | Investor | Founder
-
+### AI Leader | Research Professor | Technologist | Startup Advisor 
 
 ## My Philosophy on Academic Advisory
 
