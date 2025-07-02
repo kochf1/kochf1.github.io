@@ -21,7 +21,7 @@ I like to build platforms -- whether they are software platforms, collaboration 
 
 My overarching research question is: 
 
-> How can we design platforms that orchestrate human-machine interactions to achieve collective cognition, surpassing the capabilities of individual agents?
+>> How can we design platforms that orchestrate human-machine interactions to achieve collective cognition, surpassing the capabilities of individual agents?
 
 This question drives my exploration into the development of systems where humans and machines work together seamlessly, creating outcomes greater than the sum of their parts. I am convinced that these are the building blocks of the innovative platforms that will fuel tomorrow’s society.
 
