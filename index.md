@@ -1,8 +1,7 @@
 
 ![](./images/fkoch-banner.png)
 
-### Dr. Fernando Koch
-AI Leader | Researcher | Technologist | Startup Advisor 
+### AI Leader | Researcher | Technologist | Startup Advisor 
 
 <br/>
 
