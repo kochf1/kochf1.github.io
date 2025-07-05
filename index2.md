@@ -1,9 +1,9 @@
 
 
 
-<table width="100%" border="0em">
-<tr border="0em">
-<td width="65%" border="0em">
+<table width="100%" style="border: none;">
+<tr>
+<td width="65%">
 <p>
 <ul>
 <li><a href="https://www.fau.edu/engineering/directory/faculty/koch/">Research Professor</a> at Florida Atlantic University.</li>
@@ -29,10 +29,10 @@ Platforms have the power of organization, generating re-usable components to via
 My overarching research question is: 
 </p>
 <p>
-<i>How can we design platforms that orchestrate human-machine interactions to achieve collective cognition, surpassing the capabilities of individual agents?</i>
+<i>How can we design systems to improve human-machine interactions aiming at collective cognition?</i>
 </p>
 <p>
-This question drives my experimentation with systems where humans and machines work together seamlessly, creating outcomes greater than the sum of their parts. I believe these systems are the building blocks of the innovative platforms that will fuel tomorrow’s society.
+This question drives my experimentation with systems where humans and machines work together to surpass the capabilities of individual agents. I believe these systems are the building blocks of the innovative platforms that will fuel tomorrow’s society.
 </p>
 </td>
 <td width="35%" valign="top">
