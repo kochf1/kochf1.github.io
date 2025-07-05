@@ -5,7 +5,7 @@
 <tr>
 <td width="65%">
 <p>
-<h3>How can we design systems for collective cognition?</h3>
+<h2>How can we design systems for collective cognition?</h2>
 </p>
 <p>
 <br/>
