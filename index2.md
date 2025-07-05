@@ -3,7 +3,7 @@
 
 <table width="100%" border="0">
 <tr>
-<td width="70%">
+<td width="60%">
 
 <ul>
 * [Research Professor](https://www.fau.edu/engineering/directory/faculty/koch/) at Florida Atlantic University.
@@ -15,8 +15,8 @@
 * [100+ patents](./publications.md#patents).
 
 </td>
-<td width="30%">
-<img src="./images/fkoch-headshot.png">
+<td width="40%">
+<img src="./images/fkoch-headshot.png" width="100">
 </td>
 </tr>
 </table>
