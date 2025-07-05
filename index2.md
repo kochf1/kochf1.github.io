@@ -1,10 +1,9 @@
 
 
 
-<table width="100%" border="0">
+<table width="100%" style="border-collapse:collapse; border:none;">
 <tr>
 <td width="60%">
-
 <ul>
 <li><a href="https://www.fau.edu/engineering/directory/faculty/koch/">Research Professor</a> at Florida Atlantic University.</li>
 <li>Head of the <a href="http://www.generativeintelligencelab.ai">The Generative Intelligence Lab</a>.</li>
