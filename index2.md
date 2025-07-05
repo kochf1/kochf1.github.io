@@ -15,7 +15,7 @@ Dr. Fernando Koch is a <a href="https://www.fau.edu/engineering/directory/facult
 He is a recognized expert in Artificial Intelligence and Generative AI, with over three decades of experience spanning academic research and enterprise innovation. He holds a PhD in Computer Science from Utrecht University and has held senior positions at IBM and Samsung Research. He previously held academic appointments at the University of Melbourne and Korea University.
 </p>
 <p>
-Dr. Koch’s work sits at the intersection of Computational Intelligence, Intelligence Platforms, and Human-Machine Collaboration. His work addresses a central question:
+Dr. Koch’s research sits at the intersection of Computational Intelligence, Human-Machine Collaboration, and Generative Intelligence Systems. His work revolves around a central question:
 </p>
 <p>
 <i>How can we design systems to improve human-machine interactions and towards collective cognition?</i>
