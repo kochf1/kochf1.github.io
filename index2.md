@@ -15,7 +15,7 @@
 
 </td>
 <td width="40%">
-<img src="./images/fkoch-headshot.png" width="100">
+<img src="./images/fkoch-headshot.png" width="300">
 </td>
 </tr>
 </table>
