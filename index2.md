@@ -5,34 +5,23 @@
 <tr>
 <td width="65%">
 <p>
-<ul>
-<li><a href="https://www.fau.edu/engineering/directory/faculty/koch/">Research Professor</a> at Florida Atlantic University.</li>
-<li>Head of the <a href="http://www.generativeintelligencelab.ai">The Generative Intelligence Lab</a>.</li>
-<li>Startup Advisor.</li>
-<li>x-IBM, x-Samsung.</li>
-<!---<li>Faculty Advisor of the  <a href="http://www.faueec.org">Engineering Entrepreneurship Club</a>.</li>
-<li>Ph.D. in Computer Science.</li>
-<li><a href="./publications.md#books">6 books.</a></li>
-<li><a href="./publications.md#papers">90+ scientific papers.</a></li>
-<li><a href="./publications.md#patents">100+ patents.</a></li>
---->
-</ul>
+Dr. Fernando Koch is a <a href="https://www.fau.edu/engineering/directory/faculty/koch/">Research Professor</a> at Florida Atlantic University, where he leads <a href="http://www.generativeintelligencelab.ai">The Generative Intelligence Lab</a>. He is a recognized expert in Artificial Intelligence and Generative AI, with over three decades of experience spanning academic research and enterprise innovation. He holds a PhD in Computer Science from Utrecht University and has held senior positions at IBM and Samsung Research. He previously held academic appointments at the University of Melbourne and Korea University.
 </p>
 <p>
-<br/>
-I like to build platforms! 
-</p>
-<p>
-Platforms have the power of organization, generating re-usable components to viability and fast-react production. They make us more productive, efficient, and elevate society.  I believe building platforms is about creating connections between software, hardware, and minds -- whether they are software platforms, collaboration hubs, or systems for human-machine interactions. 
-</p>
-<p>
-My overarching research question is: 
+Dr. Koch’s work sits at the intersection of Computational Intelligence and Human-Machine Collaboration. His research explores the design of intelligent platforms that enable collaboration between humans and machines. His work addresses a central question:
 </p>
 <p>
 <i>How can we design systems to improve human-machine interactions aiming at collective cognition?</i>
 </p>
 <p>
-This question drives my experimentation with systems where humans and machines work together to surpass the capabilities of individual agents. I believe these systems are the building blocks of the innovative platforms that will fuel tomorrow’s society.
+This question drives his pursuit of platforms that connect software, hardware, and human insight—creating dynamic. Dr. Koch envisions a future in which thoughtfully designed systems enhance human capabilities, enabling us to tackle complex business and societal challenges.
+</p>
+<p>
+<br/>
+<a href="https://www.linkedin.com/in/fkoch/">LinkedIN</a>
+<a href="https://scholar.google.com/citations?hl=en&user=-jD2UDsAAAAJ&view_op=list_works&sortby=pubdate">Google Scholar</a>
+<a href="./publications.html">Publications</a>
+<a href="./minibio.html">Minibio</a>
 </p>
 </td>
 <td width="35%" valign="top">
