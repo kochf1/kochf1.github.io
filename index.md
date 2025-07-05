@@ -1,8 +1,6 @@
 
 ![](./images/fkoch-banner.png)
 
-### AI Leader | Researcher | Technologist | Startup Advisor 
-
 <br/>
 
 * [Research Professor](https://www.fau.edu/engineering/directory/faculty/koch/) at Florida Atlantic University.
