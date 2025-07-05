@@ -2,14 +2,15 @@
 
 Up text
 
-<tr>
-<td>
+<table width="100%">
+<td width="70%">
 my text here
 </td>
-<td>
+<td width="30%">
 <img src="./images/fkoch-headshot.png">
 <td>
-<tr>
+</table>
+
 
 Bottom text
 
