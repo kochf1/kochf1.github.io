@@ -5,7 +5,7 @@
 <tr>
 <td width="65%">
 <p>
-<h2>How can we design systems for collective cognition?</h2>
+<h3>How can we design systems for collective cognition?</h3>
 </p>
 <p>
 Dr. Fernando Koch is a <a href="https://www.fau.edu/engineering/directory/faculty/koch/">Research Professor</a> at Florida Atlantic University, where he leads <a href="http://www.generativeintelligencelab.ai">The Generative Intelligence Lab</a>. 
