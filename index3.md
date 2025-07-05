@@ -1,7 +1,6 @@
 
 
 
-<table width="100%" border="0em">
 <tr border="0em">
 <td width="65%" border="0em">
 <p>
