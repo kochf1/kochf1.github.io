@@ -1,9 +1,9 @@
 
 
 
-<table width="100%" style="border-collapse:collapse; border:none;">
+<table width="100%">
 <tr>
-<td width="60%">
+<td width="60%" style="border:none;">
 <ul>
 <li><a href="https://www.fau.edu/engineering/directory/faculty/koch/">Research Professor</a> at Florida Atlantic University.</li>
 <li>Head of the <a href="http://www.generativeintelligencelab.ai">The Generative Intelligence Lab</a>.</li>
@@ -16,15 +16,11 @@
 <br/>
 </td>
 <td width="40%">
-<right>
 <img src="./images/fkoch-headshot.png" width="300">
-</right>
 </td>
 </tr>
-</table>
-
-<br/>
-<br/>
+<tr>
+<td colspan="2">
 <p>
 I like to build platforms! 
 </p>
@@ -37,5 +33,9 @@ My overarching research question is:
 <i>How can we design platforms that orchestrate human-machine interactions to achieve collective cognition, surpassing the capabilities of individual agents?</i>
 </p>
 <p>
-This question drives me experiment with systems where humans and machines work together seamlessly, creating outcomes greater than the sum of their parts. I am convinced that these are the building blocks of the innovative platforms that will fuel tomorrow’s society.
+This question drives my experimentation with systems where humans and machines work together seamlessly, creating outcomes greater than the sum of their parts. I believe these systems are the building blocks of the innovative platforms that will fuel tomorrow’s society.
 </p>
+</td>
+</tr>
+</table>
+
