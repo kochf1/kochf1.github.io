@@ -1,14 +1,15 @@
 
-### AI Leader | Researcher | Technologist | Startup Advisor 
 
+Up text
 
-<table>
 <tr>
 <td>
 my text here
 </td>
 <td>
-![](./images/fkoch-headshot.png)
+<img src="./images/fkoch-headshot.png">
 <td>
 <tr>
-</table>
+
+Bottom text
+
