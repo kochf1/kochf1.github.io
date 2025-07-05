@@ -1,7 +1,7 @@
 
 
 
-<table width="100%" style="border: none;">
+<table width="100%" style="border: 0;">
 <tr>
 <td width="65%">
 <p>
