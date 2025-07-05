@@ -16,6 +16,8 @@
 </ul>
 </p>
 <p>
+<br/>
+<br/>
 I like to build platforms! 
 </p>
 <p>
