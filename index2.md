@@ -3,7 +3,7 @@
 
 <table width="100%">
 <tr>
-<td width="60%" style="border:none;">
+<td width="60%">
 <p>
 <ul>
 <li><a href="https://www.fau.edu/engineering/directory/faculty/koch/">Research Professor</a> at Florida Atlantic University.</li>
@@ -31,7 +31,7 @@ My overarching research question is:
 This question drives my experimentation with systems where humans and machines work together seamlessly, creating outcomes greater than the sum of their parts. I believe these systems are the building blocks of the innovative platforms that will fuel tomorrow’s society.
 </p>
 </td>
-<td width="40%">
+<td width="40%" valign="top">
 <img src="./images/fkoch-headshot.png" width="300">
 </td>
 </tr>
