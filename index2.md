@@ -9,7 +9,7 @@
 <li><a href="https://www.fau.edu/engineering/directory/faculty/koch/">Research Professor</a> at Florida Atlantic University.</li>
 <li>Head of the <a href="http://www.generativeintelligencelab.ai">The Generative Intelligence Lab</a>.</li>
 <li>Startup Advisor.</li>
-<li>x-Samsung Research, x-IBM</li>
+<li>x-IBM, x-Samsung.</li>
 <!---<li>Faculty Advisor of the  <a href="http://www.faueec.org">Engineering Entrepreneurship Club</a>.</li>
 <li>Ph.D. in Computer Science.</li>
 <li><a href="./publications.md#books">6 books.</a></li>
