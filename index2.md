@@ -5,7 +5,6 @@
 <tr>
 <td width="60%">
 
-<ul>
 * [Research Professor](https://www.fau.edu/engineering/directory/faculty/koch/) at Florida Atlantic University.
 * Head of the [The Generative Intelligence Lab](http://www.generativeintelligencelab.ai).
 * Faculty Advisor of the [Engineering Entrepreneurship Club](http://www.faueec.org).
