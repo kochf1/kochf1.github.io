@@ -1,7 +1,6 @@
 
 
 
-<tr border="0em">
 <td width="65%" border="0em">
 <p>
 <ul>
@@ -34,6 +33,5 @@ This question drives my experimentation with systems where humans and machines w
 <td width="35%" valign="top">
 <img src="./images/fkoch-headshot.png" width="250">
 </td>
-</tr>
-</table>
+
 
