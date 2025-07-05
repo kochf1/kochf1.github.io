@@ -1,7 +1,7 @@
-![](./images/fkoch-banner.png)
 
-### AI Leader | Researcher | Technologist | Startup Advisor 
+# Publications
 
+* [Google Scholar](https://scholar.google.com/citations?hl=en&user=-jD2UDsAAAAJ&view_op=list_works&sortby=pubdate)
 <br/>
 
 ### Books
