@@ -17,9 +17,9 @@ I like to build platforms -- whether they are software platforms, collaboration 
 
 My overarching research question is: 
 
-> How can we design platforms that orchestrate human-machine interactions to achieve collective cognition, surpassing the capabilities of individual agents?
+*How can we design platforms that orchestrate human-machine interactions to achieve collective cognition, surpassing the capabilities of individual agents?*
 
-This question drives my exploration into the development of systems where humans and machines work together seamlessly, creating outcomes greater than the sum of their parts. I am convinced that these are the building blocks of the innovative platforms that will fuel tomorrow’s society.
+This question drives me experiment with systems where humans and machines work together seamlessly, creating outcomes greater than the sum of their parts. I am convinced that these are the building blocks of the innovative platforms that will fuel tomorrow’s society.
 
 In this scope, my research interest falls in the intersection between: 
 * [**Generative Intelligence**](https://medium.com/generative-intelligence-lab/generative-intelligence-systems-concepts-and-research-opportunities-0740b1b5c7eb), exploring AI systems that autonomously create new content or solutions, emulating human creativity and innovation.
