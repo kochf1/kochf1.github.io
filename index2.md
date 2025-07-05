@@ -5,6 +5,9 @@
 <tr>
 <td width="65%">
 <p>
+<h2>How can we design systems for collective cognition?</h2>
+</p>
+<p>
 Dr. Fernando Koch is a <a href="https://www.fau.edu/engineering/directory/faculty/koch/">Research Professor</a> at Florida Atlantic University, where he leads <a href="http://www.generativeintelligencelab.ai">The Generative Intelligence Lab</a>. 
 </p>
 <p>
@@ -14,7 +17,7 @@ He is a recognized expert in Artificial Intelligence and Generative AI, with ove
 Dr. Koch’s work sits at the intersection of Computational Intelligence, Intelligence Platforms, and Human-Machine Collaboration. His work addresses a central question:
 </p>
 <p>
-<i>How can we design systems to improve human-machine interactions aiming at collective cognition?</i>
+<i>How can we design systems to improve human-machine interactions and towards collective cognition?</i>
 </p>
 <p>
 This question drives his pursuit of platforms that connect software, automation, and human insight—creating dynamic. Dr. Koch envisions a future where thoughtfully designed systems enhance human capabilities, helping us address complex business and societal challenges.
