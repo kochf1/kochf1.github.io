@@ -1,71 +1,4 @@
 
-
-
-/* === LAYOUT FOR DESKTOP === */
-
-.intro-section {
-  display: flex;
-  max-width: 700px;
-  margin: 0 auto;
-  padding: 30px;
-  gap: 20px;
-  flex-wrap: wrap;
-}
-
-/*
-.wrapper {
-    max-width: 700px;
-    margin: 0 auto;
-    padding: 0 30px;
-    width: 100%;
-}
-*/
-
-.text-content {
-  flex: 0 0 65%;
-}
-
-.image-content {
-  flex: 0 0 35%;
-}
-
-.image-content img {
-  width: 100%;
-  height: auto;
-  display: block;
-}
-
-
-
-/* === LAYOUT FOR MOBILE === */
-
-@media screen and (max-width: 600px) {
-  .intro-section {
-    flex-direction: column;
-    padding: 15px;
-  }
-
-  .text-content,
-  .image-content {
-    flex: 0 0 100%;
-  }
-
-  .image-content {
-    margin-bottom: 20px;
-    text-align: center;
-  }
-
-  .image-content img {
-    max-width: 250px;
-  }
-
-  .wrapper {
-        padding: 0 15px;
-  }
-}
-
-/* === ORIGINAL LAYOUT FROM MINIMA === */
-
 body, h1, h2, h3, h4, h5, h6, p, blockquote, pre, hr, dl, dd, ol, ul, figure {
     margin: 0;
     padding:0
@@ -90,10 +23,18 @@ body {
     flex-direction: column;
 }
 
+.wrapper {
+    max-width: 700px;
+    margin: 0 auto;
+    padding: 0 30px;
+    width: 100%;
+}
 
-
-
-
+@media screen and (max-width: 600px) {
+    .wrapper {
+        padding: 0 15px;
+    }
+}
 
 h1, h2, h3, h4, h5, h6, p, blockquote, pre, ul, ol, dl, figure, .highlight {
     margin-bottom:15px
