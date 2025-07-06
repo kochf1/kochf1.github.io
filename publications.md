@@ -15,6 +15,8 @@
 
 ### Papers
 
+1. [Intelligent Orchestration of Distributed Large Foundation Model Inference at the Edge](https://arxiv.org/pdf/2504.03668), 2025. arXiv preprint arXiv:2504.03668. F.L. Koch, A. Djuhera, A. Binotto.
+
 1. [Multi-Agent Architecture in Distributed Environment Control Systems: vision, challenges, and opportunities](https://arxiv.org/pdf/2502.15663), 2025. arXiv preprint arXiv:2502.15663. N. Astudillo, F.L. Koch.
 1. [Performance of security options for message protocols: A comparative analysis](https://onlinelibrary.wiley.com/doi/abs/10.1002/nem.2274), 2024. International Journal of Network Management. W.R. Bezerra, F.L. Koch, C.B. Westphall.
 1. [Enhancing Collaborative Interactions in Multi-Agent Environments](https://priorart.ip.com/IPCOM/00274743D), 2024. InnovationQ. P.L. Virgen, H.O. Cervantes, A.A. Jimenez, F.L. Koch.
