@@ -164,7 +164,7 @@
 1.  [Validation of connection requests for a firewall](https://patents.google.com/patent/US20240340265A1/en), 2024. USPTO 20240340265 A1. S.L.Strattner, F.L.Koch
 1.  [CULTURE-AWARE RECOMMENDATION OVER VISUAL SCANNING IN DYNAMIC SOCIAL ENVIRONMENTS](https://www.freepatentsonline.com/y2025/0104408.html), 2025. USPTO 20250104408 A1. V.M.Gopal, N.Delima, F.L.Koch, J.Sachinkumar
 1.  [INTELLIGENT ORCHESTRATION SYSTEM FOR EMOTION CONTAGION IN MULTI-HUMAN TO MULTI-AGENT INTERACTIONS](https://www.freepatentsonline.com/y2025/0094842.html), 2025. USPTO 20250094842 A1. F.L.Koch, Koch, M.G.Keen, J.Nahulan, J.R.Fox
-1.  [Orchestration of workloads involving an ai model](https://patents.google.com/patent/US20250071069A1/en), 2025. USPTO 20250071069 A1. A.Djuhera, A.P.D.Binotto, F.L.Koch, R.High
+1.  [Orchestration of workloads involving an AI model](https://patents.google.com/patent/US20250071069A1/en), 2025. USPTO 20250071069 A1. A.Djuhera, A.P.D.Binotto, F.L.Koch, R.High
 1. **System and Method for Augmenting the Data Science Process supported by human sensing parameters**,2022. to be published. F.L. Koch and others*
 1. **System and Method for Automated Adjustment in Context Aware Smart Sensors**,2022. to be published. F.L. Koch and others*
 1. **System and Method for Collaborative Creation of Rules for Content Placement in Distributed Open Communication Interfaces **,2022. to be published. F.L. Koch and others*
