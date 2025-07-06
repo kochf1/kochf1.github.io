@@ -46,26 +46,27 @@
 
 @media screen and (max-width: 600px) {
   .wrapper {
-    padding: 0 15px;           /* tighter padding on mobile */
+    padding: 0 15px;
   }
 
   .intro-section {
-    flex-direction: column-reverse; /* ✅ image above text */
+    flex-direction: column-reverse;
     padding: 15px 0;
   }
 
-  .text-content,
-  .image-content {
-    flex: 0 0 100%;            /* full width each */
+  .text-content {
+    flex: 0 0 100%;
+    padding-right: 10px;    
   }
 
   .image-content {
+    flex: 0 0 100%;
     margin-bottom: 20px;
     text-align: center;
   }
 
   .image-content img {
-    max-width: 250px;         /* prevent overly wide image */
+    max-width: 90%;         
   }
 }
 
