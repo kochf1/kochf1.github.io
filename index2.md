@@ -9,9 +9,9 @@
 <p>Dr. Koch envisions a future where thoughtfully designed systems enhance human capabilities, helping us address complex business and societal challenges.</p>
 <p><strong>Teaching</strong></p>
 <ul>
-<li><a href="https://fau.simplesyllabus.com/doc/em80vs56l/...">COT6930 - Generative AI in Software Development Lifecycles</a></li>
-<li><a href="https://fau.simplesyllabus.com/doc/yolipf0x2/...">CEN4010 - Software Engineering with Generative AI</a></li>
-<li><a href="https://www.fau.edu/...">CAP4623 - Trustworthy AI</a></li>
+<li><a href="https://fau.simplesyllabus.com/doc/em80vs56l/Fall-2025-1-Full-Term-COT-6930-004-Topics-in-Computer-Science?mode=view">COT6930 - Generative AI in Software Development Lifecycles</a></li>
+<li><a href="https://fau.simplesyllabus.com/doc/yolipf0x2/Spring-2025-1-Full-Term-CEN-4010-001-Prin-Software-Engineering?mode=view">CEN4010 - Software Engineering with Generative AI</a></li>
+<li><a href="https://www.fau.edu/engineering/eecs/pdf/syllabus-trustworthy-artificial-intelligence-fall-2024.pdf">CAP4623 - Trustworthy AI</a></li>
 </ul>
 <p><strong>Links</strong></p>
 <ul>
