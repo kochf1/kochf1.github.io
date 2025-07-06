@@ -39,11 +39,10 @@ This question drives his pursuit of platforms that connect software, automation,
 <b>Links:</b>
 </p>
 <p>
-<br/>
 <ul>
-<li><a href="https://www.linkedin.com/in/fkoch/">LinkedIN</a><br/></li>
-<a href="https://scholar.google.com/citations?hl=en&user=-jD2UDsAAAAJ&view_op=list_works&sortby=pubdate">Google Scholar</a><br/></li>
-<li><a href="./publications.html">Publications</a><br/></li>
+<li><a href="https://www.linkedin.com/in/fkoch/">LinkedIN</a></li>
+<a href="https://scholar.google.com/citations?hl=en&user=-jD2UDsAAAAJ&view_op=list_works&sortby=pubdate">Google Scholar</a></li>
+<li><a href="./publications.html">Publications</a></li>
 <li><a href="./minibio.html">Minibio</a></li>
 </ul>
 </p>
