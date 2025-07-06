@@ -2,11 +2,11 @@
 
 <div class="intro-section">
 <div class="text-content">
-<h2>How can we design systems for collective cognition?</h2>
+<h2>How can we design systems for collaborative cognition?</h2>
 <p>Dr. Fernando Koch is a <a href="https://www.fau.edu/engineering/directory/faculty/koch/">Research Professor</a> at Florida Atlantic University, where he leads <a href="http://www.generativeintelligencelab.ai">The Generative Intelligence Lab</a>.</p>
 <p>Dr. Koch is a expert  in Artificial Intelligence and Generative AI, with over 25 years of experience including academic research and enterprise innovation. He holds a PhD in Computer Science from Utrecht University. He has held senior positions at IBM and Samsung Research, and academic appointments at the University of Melbourne, Korea University, and UNICAMP.</p>
 <p>As Director of Research at Samsung, he led a Digital Education initiative that was <a href="https://vimeo.com/355487809">implemented in over 400 classrooms, positively impacting thousands of students in underserved communities</a>. At IBM, he developed AI strategies for Fortune 100 clients and authored dozens of patents across Generative AI, Edge AI, and related fields, being recognized as an <a href="https://www.ibm.com/training/badge/master-inventor.1">IBM Master Inventor</a>.</p> 
-<p>Dr. Koch’s research interest sits at the intersection of Computational Intelligence, Human-Machine Collaboration, and Generative Intelligence Systems. Through his lab and public speaking, Dr. Koch envisions a future where AI systems are aligned with human values—enhancing our ability to tackle complex challenges in business and society.</p>
+<p>Dr. Koch’s research interest sits at the intersection of Computational Intelligence, Human-Machine Collaboration, and Generative Intelligence Systems. Through his lab and research projects, Dr. Koch envisions a future where AI systems are aligned with human values—enhancing our ability to tackle complex challenges in business and society.</p>
 <p><br/></p>
 <p><strong>Teaching</strong></p>
 <p>
