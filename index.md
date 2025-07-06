@@ -19,7 +19,7 @@
 <p>
 <ul>
 <li><a href="https://www.linkedin.com/in/fkoch/">LinkedIN</a></li>
-<li><a href="https://scholar.google.com/...">Google Scholar</a></li>
+<li><a href="https://scholar.google.com/citations?hl=en&user=-jD2UDsAAAAJ&view_op=list_works&sortby=pubdate">Google Scholar</a></li>
 <li><a href="./minibio.html">Minibio</a></li>
 </ul>
 </p>
