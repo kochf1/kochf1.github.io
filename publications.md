@@ -1,10 +1,10 @@
 
 
-
-<h1>Publications</h1>
+<br/>
+# Publications
 
 * [Google Scholar](https://scholar.google.com/citations?hl=en&user=-jD2UDsAAAAJ&view_op=list_works&sortby=pubdate)
-<br/>
+
 
 ### Books
 
