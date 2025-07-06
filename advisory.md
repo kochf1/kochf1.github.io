@@ -4,85 +4,107 @@
 
 Thank you for considering me as your academic advisor.
 
-My role is to help researchers think strategically, publish effectively, innovate meaningfully, and most importantly, **conduct research that matters**. In order to create create academic success, we must focus on real problems, pursue rigorous inquiry, and deliver tangible results.
+My role is to help researchers think strategically, publish effectively, innovate meaningfully, and most importantly, **conduct research that matters**. In order to create academic success, we must focus on real problems, pursue rigorous inquiry, and deliver tangible results. My advise follows four steps:
 
-## Starting Strong
+* [Step 1: Start Strong](#star-strong)
+* [Step 2: Deliver Results](#deliver-results)
+* [Step 3: Fulfill Expectations](#fulfill-expectations)
+* [Step 4: Reap the Rewards](#reap-the-rewards)
+
+## Start Strong
 
 Look, research is not easy! You have to be really committed and *passionate about the problem*, and even then it won't be a walk in the park. People will be asking: *what is your research about*? There is no better way to answer that question than:
 
-> **(Step 1) Define an Intriguing Research Question**
+> **Define an Intriguing Research Question**
 
-This should be a problem that is not only intellectually challenging and personally resonating. 
+This should be a problem that is not only intellectually challenging and personally meaningful. 
 
 Once you’ve found that problem, the next step is to:
 
-> **(Step 2) Write your research Proposal**
+> **Write your Research Proposal**
 
-Your proposal should be short, buzzwordy-less, and convincing. 
+Your proposal should be short, **free of buzzwords**, and convincing. 
 
 **Research Proposal**
-* The Intriguing Research Question
-* My argument:
+* My Intriguing Research Question
+* My Arguments:
     * Why does this problem exist?
     * What is currently already there?
-    * What is  missing to solve the problem?
+    * What is missing to address the problem?
     * How I will address the problem?
-    * If it works, what will the impact?
-* Plan of Action:
-    * What I will be doing during the program?
+    * What will the impact be?
+* My Plan of Action:
+    * What will I be doing during the program?
     * What are the **results that I will be delivering**? When?
     * What resources do I need to execute this program?
 
 
+## Deliver Results
 
-## Delivering Results
+Notice the key question highlighted in the description above 👆.
 
-A successful research program should aim to deliver **Scholarly Outcomes** in terms of:
-* Peer-reviewed publications.
-* A robust and reusable **research framework**.
-* Prototypes or technical demonstrations.
-* Intellectual Property (patents, disclosures).
-* Competitive grant proposals.
+That is: delivering results is essential. Especially in a non-financially bonding commitment like the advisor-pupil relationship, commitment and results are core expectations.
 
-Publications should be targeted toward reputable, high-visibility venues, ideally those that contribute to departmental metrics such as [CSRankings](https://csrankings.org)
+In the scope of a research program, we are talking about **relevant scholarly outcomes** such as:
+* **Publications**.
+* **Experiments and Results** to support better Publications.
+* **Research Frameworks** to support these Experiments.
+* **Projects** to structure these Research Frameworks.
+* Intellectual Property.
+* Grant proposals.
 
-The **research framework** can take many forms: research tools, experimental setups, documented methodologies, or guidelines for applying your research to real-world use cases.
+At this point, you should stop and think: "is that what I want?"
 
-These deliverables serve as milestones, helping to validate your research, guide your progress, and ensure that your efforts lead to measurable, impactful results.
+Because, really, if in your mind crossed this thought: "I am not the publication kind of gal/guy?", and you didn’t reconsider that thought afterward.  Then, maybe Academic Research is not for you. Or I am not your Advisor. Be honest here!
 
-## Postdoctoral Research Programs
+**Publications** are key metrics in any academic research program. Papers that matter must be worth reading, exploring relevant aspects of the intriguing question you formulated above. Ideally, these publications should target venues that contribute to the University's or Department's performance metrics — such as those listed in [CSRankings](https://csrankings.org) and other rankings. When that happens, your publications become a win-win for everyone!
 
-For postdocs, the bar is higher in terms of originality and leadership. A robust postdoc research agenda should include:
-* **Vision Paper** that frames research challenges and opportunities in a focused domain.
-* **Structured Research Framework**, capable of supporting collaboration and future extensions.
-* **Result Paper**, presenting high-quality, peer-reviewed findings.
-* **Grant Application(s)**, opening pathways for independent research and funding.
+## Fulfill Expectations
 
-## PhD Research Programs
+You must come expecting a lot from me, as your Advisor! That is OK, and I promise that I will put the effort to fulfill that expectation. 
 
-For PhD students, the goal is to develop deep expertise, produce original contributions to knowledge, and shape the direction of research in a chosen area. A PhD students should be able to
-**formulate a significant and novel research question** with clear theoretical or practical impact
+On the other hand, I also have great expectations from you:
+* Commitment
+* Intelligence
+* Artisanship
+* Results
 
-Hence, the emphasis is on **advancing knowledge and demonstrating independent research capability**.
+Here are some pointers depending on the program:
 
-I advocate putting together a solid **Research Plan**, following the pointers above (see [Starting Strong](#starting-strong)), and also articulating a plan towards Scholarly Output:
+* **Postdoctoral Research Programs**: the bar is higher in terms of originality and leadership. A robust program must include:
+    * **Publication about your Vision**, right at the beginning, where you articulate your understanding of the research field and outline a forward-looking vision. *Where is this program taking us?*
+    * **Experimentation Plan**, that will lead to *datasets of relevant research data* to subsidize the exploration. *How will we prove it?*
+    * **Regular Publications about the Results**, presenting findings from Experiments and analysis of the datasets. *What have we found out so far?*
+    * **Support to Grant Application(s)**, opening pathways for independent research and funding.
 
-* **Structured Research Framework**, capable of supporting your research project.
-* **Positioning Paper** outlining the novel direction or research gap.
-* **Results Paper(s)** showcasing key technical or conceptual advancements.
-* Contributions to Intellectual Property (patents).
-* Strong leads to competitive Grant Proposals.
+* **PhD Research Programs**: develop deep expertise and produce original contributions. A good program must include:
+    * **Research Proposal**, following the guidelines outlined above. This is a "day 1" thing and we will be revising regularly. 
+    * **Regular checkpoints**, where you present what you are thinking, what you have found out so far, and your plan ahead. This is to keep you on track.
+    * **Publication about your Vision**,  outlining your understanding  about the vision, challenges, and opportunities. Even if the ideas are preliminary, this will become a key document to support your answer to that tricky question: "what is your research about?"
+    * **Regular Publications about the Results**, presenting findings from explorations and experiments. *What have we found out so far?*
+    * **Support to Grant Application(s)**, opening pathways for independent research and funding.
+
+* **Master Research Programs**: develop solid research skills while contributing with a meaningful project. A good program must include: 
+     * **Program Outline**, including the basic items from the **Research Proposal** outlined above, tailored to what makes sense for this level of research.
+    * **Regular checkpoints**, where you present what you are thinking, what you have found out so far, and your plan ahead. This is to keep you on track.
+    * **Learning the Right Techniques**, that is *mastering* the tools, methods, or frameworks necessary to explore the problem. 
+    * **Publications about the Results**, presenting findings from explorations and experiments. *What have we found out so far?*
 
 
-## Master's Research 
+## Reap the Rewards
 
-For Master’s program, the goal is to develop solid research skills while contributing to a focused and meaningful project. Students should be able to (i) clearly articulate a research problem and its context, and (ii) apply relevant techniques to investigate or address.
+As I’ll tell you when we first meet in person:
+*"There are two moments of true happiness in a research program: when we start it, and when we finish it!"*
 
-Hence, the emphasis is on learning **how to do research**. 
+In between those two points, you’ll experience many small happinesses: learning a new technique, discovering a better way to do something, getting a paper accepted, or solving a problem that once felt impossible.
 
-I suggest putting together a solid **Research Plan**, following the pointers above (see [Starting Strong](#starting-strong)) and then focusing on:
-* **Learning the Right Technique**, by building a learning path to master the tools, methods, or frameworks necessary to explore the problem. 
+Through it all, **always keep a positive attitude**.
 
-* **Contributing to Scholarly Output**, by outlining a plan on how you can contribute to at least one of the following:   
-    * A **positioning paper** outlining the research context, open questions, and proposed direction;
-    * A **results paper** presenting experimental findings, validation, or a proof-of-concept.
+When you complete the program, you’ll want to reap the rewards of your time, emotional energy, and financial investment. The way you will reap this reward depends on you, current context and interests:
+* A strong sense of personal accomplishment
+* Better employment or academic opportunities
+* The confidence to pursue entrepreneurship
+
+Whatever your path to happiness may be, make the most of the time and effort you’re putting into the program to ensure it leads you there. Whenever possible, spare some effort to help those around you (including me 😊)
+
+Happiness is only real when shared!
