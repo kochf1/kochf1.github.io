@@ -20,7 +20,6 @@
 <ul>
 <li><a href="https://www.linkedin.com/in/fkoch/">LinkedIN</a></li>
 <li><a href="https://scholar.google.com/...">Google Scholar</a></li>
-<li><a href="./publications.html">Publications</a></li>
 <li><a href="./minibio.html">Minibio</a></li>
 </ul>
 </p>
