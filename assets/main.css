@@ -1,10 +1,11 @@
+
 body, h1, h2, h3, h4, h5, h6, p, blockquote, pre, hr, dl, dd, ol, ul, figure {
     margin: 0;
     padding:0
 }
 
 body {
-    font: 400 16px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    font: 400 16px/1.5 "Times New Roman";
     color: #111;
     background-color: #fdfdfd;
     -webkit-text-size-adjust: 100%;
@@ -16,6 +17,19 @@ body {
     display: flex;
     min-height: 100vh;
     flex-direction:column
+}
+
+.wrapper {
+    max-width: 700px;
+    margin: 0 auto;
+    padding: 0 30px;
+    width: 100%;
+}
+
+@media screen and (max-width: 600px) {
+    .wrapper {
+        padding: 0 15px;
+    }
 }
 
 h1, h2, h3, h4, h5, h6, p, blockquote, pre, ul, ol, dl, figure, .highlight {
@@ -152,10 +166,6 @@ table {
     color: #3f3f3f;
     border-collapse: collapse;
     border:0px solid #e8e8e8
-}
-
-table tr:nth-child(even) {
-    background-color:#f7f7f7
 }
 
 table th, table td {
