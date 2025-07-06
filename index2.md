@@ -25,6 +25,17 @@ This question drives his pursuit of platforms that connect software, automation,
 </p>
 <p>
 <br/>
+<b>Teaching</b>
+</p>
+<p>
+<ul>
+<li><a href="https://fau.simplesyllabus.com/doc/em80vs56l/Fall-2025-1-Full-Term-COT-6930-004-Topics-in-Computer-Science?mode=view">COT6930 - Generative AI in Software Development Lifecycles</a></li>
+<li><a href="https://fau.simplesyllabus.com/doc/yolipf0x2/Spring-2025-1-Full-Term-CEN-4010-001-Prin-Software-Engineering?mode=view">CEN4010 - Software Engineering with Generative AI</a></li>
+<li><a href="https://www.fau.edu/engineering/eecs/pdf/syllabus-trustworthy-artificial-intelligence-fall-2024.pdf">CAP4623 - Trustworthy AI</a></li>
+</ul>
+</p>
+<p>
+<br/>
 <a href="https://www.linkedin.com/in/fkoch/">LinkedIN</a><br/>
 <a href="https://scholar.google.com/citations?hl=en&user=-jD2UDsAAAAJ&view_op=list_works&sortby=pubdate">Google Scholar</a><br/>
 <a href="./publications.html">Publications</a><br/>
