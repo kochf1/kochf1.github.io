@@ -1,29 +1,39 @@
 
-![](../images/fkoch-banner.png)
+# My Philosophy on Academic Advisory
 
-### AI Leader | Research Professor | Technologist | Startup Advisor 
-
-## My Philosophy on Academic Advisory
 
 Thank you for considering me as your academic advisor.
 
-My role is to help researchers think strategically, publish effectively, innovate meaningfully, and most importantly—conduct research that matters. 
-If we focus on real problems, pursue rigorous inquiry, and deliver tangible results, we should be able to create academic success connected to  societal value.
-
-I guide researchers in pursuing work that is meaningful, measurable, and high-impact. The foundation of this approach is simple but powerful: find a problem that matters—both to the world and to you.
+My role is to help researchers think strategically, publish effectively, innovate meaningfully, and most importantly, **conduct research that matters**. In order to create create academic success, we must focus on real problems, pursue rigorous inquiry, and deliver tangible results.
 
 ## Starting Strong
 
-Every impactful research journey begins with identifying a **intriguing research questions**! This should be a problem that is not only intellectually challenging and personally resonant.
+Look, research is not easy! You have to be really committed and *passionate about the problem*, and even then it won't be a walk in the park. People will be asking: *what is your research about*? There is no better way to answer that question than:
 
-Once you’ve found that problem, the next step is to put a **Research Proposal** outlining:
-* Your Intriguing Research Question
-* Your argument:
+> **(Step 1) Define an Intriguing Research Question**
+
+This should be a problem that is not only intellectually challenging and personally resonating. 
+
+Once you’ve found that problem, the next step is to:
+
+> **(Step 2) Write your research Proposal**
+
+Your proposal should be short, buzzwordy-less, and convincing. 
+
+**Research Proposal**
+* The Intriguing Research Question
+* My argument:
     * Why does this problem exist?
-    * What is currently missing in solving it?
-    * Why have these gaps remained unaddressed?
-    * How will your proposed research contribute toward a solution?
-    * Why does your contribution matter?
+    * What is currently already there?
+    * What is  missing to solve the problem?
+    * How I will address the problem?
+    * If it works, what will the impact?
+* Plan of Action:
+    * What I will be doing during the program?
+    * What are the **results that I will be delivering**? When?
+    * What resources do I need to execute this program?
+
+
 
 ## Delivering Results
 
