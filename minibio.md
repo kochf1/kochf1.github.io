@@ -8,8 +8,7 @@
 </p>
 <p>
 <br/>
-Dr. Fernando Koch is a Research Professor at Florida Atlantic University, where he leads the Generative Intelligence Lab. He is a leader in Artificial Intelligence and Generative AI with over 30 years of experience spanning academic research, enterprise innovation, and solution architecture. Dr. Koch holds a Ph.D. in Computer Science from Utrecht University and has held leadership roles at IBM and Samsung Research. His work bridges academia and industry, with a track record of driving AI initiatives across Fortune 100 companies. He has co-edited 6 books, published 90+ scientific papers, and holds 100+ patent applications.
-</p>
+Dr. Fernando Koch is a Research Professor at Florida Atlantic University and leads the Generative Intelligence Lab. With over 25 years of experience in Artificial Intelligence and Generative AI, he has held senior roles at IBM and Samsung Research and contributed to both academic research and industry innovation. He holds a Ph.D. in Computer Science from Utrecht University and has led many initiatives in enterprise AI systems. He has  co-edited six books, published 90+ scientific papers, and holds 100+ patent applications. His research interests revolve around Generative AI, Edge AI, and multi-agent systems.</p>
 <p>
 <br/>
 <a href="https://www.linkedin.com/in/fkoch/">LinkedIN</a><br/>
