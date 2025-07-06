@@ -29,10 +29,13 @@
 .image-content {
   flex: 0 0 35%;
   min-width: 0;
+  display: flex;          
+  justify-content: flex-end; 
+  align-items: flex-start;  
 }
 
 .image-content img {
-  width: 100%;
+  width: 90%;              /* Slightly smaller image */
   height: auto;
   display: block;
 }
