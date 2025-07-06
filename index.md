@@ -36,7 +36,7 @@ This question drives his pursuit of platforms that connect software, automation,
 </p>
 <p>
 <br/>
-<b>Links:</b>
+<b>Links</b>
 </p>
 <p>
 <ul>

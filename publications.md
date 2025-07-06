@@ -1,6 +1,7 @@
 
 
-# Publications
+
+<h1>Publications</h1>
 
 * [Google Scholar](https://scholar.google.com/citations?hl=en&user=-jD2UDsAAAAJ&view_op=list_works&sortby=pubdate)
 <br/>
@@ -171,7 +172,6 @@
 1. **System and Method for Guiding IoT Installation Process**,2022. to be published. F.L. Koch and others*
 1. **System and Method for Normative Programming of Affective Personal Robotics**,2022. to be published. F.L. Koch and others*
 1. **System and Method for Orchestrating during installations Interruptions of IoT Devices in reaction to Potential Issues**,2022. to be published. F.L. Koch and others*
-1. **Develop NearRT-RIC xApp for RRC inactive state to Analyze System Information, UE mobility, RAN notification area updates, Neighboring cell information, and AI/ML tr**,2023. to be published. F.L. Koch and others*
 1. **Dynamic Reallocation of Resources for Distributed Data Processing**,2023. to be published. F.L. Koch and others*
 1. **Dynamic switch between sidecar to node proxy for efficient usage of resources**,2023. to be published. F.L. Koch and others*
 1. **IOT Wearable Enabled Consumable Event Approval for Memory Recall Based on Serendipity**,2023. to be published. F.L. Koch and others*
@@ -182,34 +182,33 @@
 1. **Method and System for context-aware speculative multi-variant testing in 5G-MEC environments**,2023. to be published. F.L. Koch and others*
 1. **Method and System for Context-Based Device Pairing and Security Profile Assignment in Multi-Device Ecosystems**,2023. to be published. F.L. Koch and others*
 1. **Journey-Aware Content Optimization System for Smart Vehicle Entertainment**,2023. to be published. F.L. Koch and others*
-1. **Method and System for Contextual Onboarding of Participants in Ongoing Collaborative Interactions**,2023. to be published. F.L. Koch and others*
+1. **Method and System for Contextual Onboarding of Participants in Ongoing Collaborative Interactions**,2023. to be published. F.L. Koch and others*
 1. **Method and System for Contextual Threat Representation in Large AI Models**,2023. to be published. F.L. Koch and others*
 1. **Method and System for Contextualization and Serendipity in Automated Note Taking**,2023. to be published. F.L. Koch and others*
-1. **Method and System for Contextually Enhanced Retrieval Augmented Generation in Natural Language Processing **,2023. to be published. F.L. Koch and others*
-1. **Method and System for Coordinated Emotion Representation and Expression in Multi-Agent Digital Assistants**,2023. to be published. F.L. Koch and others*
+1. **Method and System for Contextually Enhanced Retrieval Augmented Generation in Natural Language Processing**,2023. to be published. F.L. Koch and others*
+1. **Method and System for Coordinated Emotion Representation and Expression in Multi-Agent Digital Assistants**,2023. to be published. F.L. Koch and others*
 1. **Method and System for Dynamic Defense Mechanisms in Distributed Edge Split Federated Learning Systems**,2023. to be published. F.L. Koch and others*
 1. **Method and System for Dynamically Authorizing Network Egress Traffic**,2023. to be published. F.L. Koch and others*
 1. **Method and System for Finding Pareto-Optimal Decision Curves for Capacity-Dependent AI Model Deployment**,2023. to be published. F.L. Koch and others*
 1. **Method and System for Jammer-Resilient Foundation Model Fine-Tuning in Edge Networks via Joint Wireless & ML Optimization**,2023. to be published. F.L. Koch and others*
 1. **Predictive Request Offloading during On-Route Content Generation**,2023. to be published. F.L. Koch and others*
 1. **Method and System for Multi-Objective and Resource-Dependent Orchestration of Foundation Model Deployment on Edge Devices**,2023. to be published. F.L. Koch and others*
-1. **Method and System for Multi-Objective Optimization of Beamforming in Distributed Edge-IoT Environments**,2023. to be published. F.L. Koch and others*
 1. **Method and System for Optimized Microservice Deployment through Dynamic Adaptation of Edge Management and Monitoring**,2023. to be published. F.L. Koch and others*
 1. **Method and System for Privacy Preservation in Distributed Inference of Foundation Models**,2023. to be published. F.L. Koch and others*
 1. **Method and System for Resource-Efficient Foundation Model Deployment on Edge Devices via Generative Prompt Translation**,2023. to be published. F.L. Koch and others*
 1. **Method and System for Workload Orchestration of Distributed Split Inference in Multi-Access Edge Computing**,2023. to be published. F.L. Koch and others*
-1. **Method and System to Promote Collective Intelligence in Multi-Agent Collaborative Systems for Enterprise Collaboration**,2023. to be published. F.L. Koch and others*
+1. **Method and System to Promote Collective Intelligence in Multi-Agent Collaborative Systems for Enterprise Collaboration**,2023. to be published. F.L. Koch and others*
 1. **Method and System to support Ethical Digital Companions in Diversity, Equality, and Inclusion**,2023. to be published. F.L. Koch and others*
 1. **Offloading Engine for Resource-Optimized AI Processing in Smart Vehicle**,2023. to be published. F.L. Koch and others*
 1. **Method for Minimally Invasive Synchronized Media Interconnect Testing**,2023. to be published. F.L. Koch and others*
 1. **Optimized Content Queuing Mechanism for Time-Sensitive Delivery in Mobile Generateive AI**,2023. to be published. F.L. Koch and others*
-1. **A Method and System for Real-Time Adjustment of regulatory policies, controls and deployment pattern**,2023. to be published. F.L. Koch and others*
+1. **A Method and System for Real-Time Adjustment of regulatory policies, controls and deployment pattern**,2023. to be published. F.L. Koch and others*
 1. **A Proactive Digital Assistant for Improving Emotional Wellbeing in Corporate Environments**,2023. to be published. F.L. Koch and others*
 1. **Context-Driven Content Generation System for Mobile Environments Using Large AI Models**,2023. to be published. F.L. Koch and others*
 1. **An Intelligent Orchestration System for Emotion Contagion in Multi-Human to Multi-Agent Interactions**,2023. to be published. F.L. Koch and others*
 1. **Apparatus and Method for Culture-Aware and Context-Specific Visual Scanning Machine**,2023. to be published. F.L. Koch and others*
 1. **Caching recurring docker layers used in an Edge Kubernetes Cluster on Edge**,2023. to be published. F.L. Koch and others*
-1. **Method and System for Context Aware Software Defect Assessment and Processing Resolution Amelioration**,2024. to be published. F.L. Koch and others*
+1. **Method and System for Context Aware Software Defect Assessment and Processing Resolution Amelioration**,2024. to be published. F.L. Koch and others*
 1. **Method and System for Digital Assistant Orchestration In Context Aware Defect Assessment and Resolution Amelioration**,2024. to be published. F.L. Koch and others*
 1. **Method and System for Enriched Understanding of Data Queries for Optimized Data Retrieval**,2024. to be published. F.L. Koch and others*
 1. **Method for recommending dynamic network adaptation based on User Intents and supported by AI**,2024. to be published. F.L. Koch and others*
