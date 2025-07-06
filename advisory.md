@@ -70,26 +70,35 @@ On the other hand, I also have great expectations from you:
 * Artisanship
 * Results
 
-Here are some pointers depending on the program:
+Here are some pointers depending on the program.
 
-* **Postdoctoral Research Programs**: the bar is higher in terms of originality and leadership. A robust program must include:
-    * **Publication about your Vision**, right at the beginning, where you articulate your understanding of the research field and outline a forward-looking vision. *Where is this program taking us?*
-    * **Experimentation Plan**, that will lead to *datasets of relevant research data* to subsidize the exploration. *How will we prove it?*
-    * **Regular Publications about the Results**, presenting findings from Experiments and analysis of the datasets. *What have we found out so far?*
-    * **Support to Grant Application(s)**, opening pathways for independent research and funding.
+**Postdoctoral Research Programs**
 
-* **PhD Research Programs**: develop deep expertise and produce original contributions. A good program must include:
-    * **Research Proposal**, following the guidelines outlined above. This is a "day 1" thing and we will be revising regularly. 
-    * **Regular checkpoints**, where you present what you are thinking, what you have found out so far, and your plan ahead. This is to keep you on track.
-    * **Publication about your Vision**,  outlining your understanding  about the vision, challenges, and opportunities. Even if the ideas are preliminary, this will become a key document to support your answer to that tricky question: "what is your research about?"
-    * **Regular Publications about the Results**, presenting findings from explorations and experiments. *What have we found out so far?*
-    * **Support to Grant Application(s)**, opening pathways for independent research and funding.
+The bar is higher in terms of originality and leadership. A robust program must include:
 
-* **Master Research Programs**: develop solid research skills while contributing with a meaningful project. A good program must include: 
-     * **Program Outline**, including the basic items from the **Research Proposal** outlined above, tailored to what makes sense for this level of research.
-    * **Regular checkpoints**, where you present what you are thinking, what you have found out so far, and your plan ahead. This is to keep you on track.
-    * **Learning the Right Techniques**, that is *mastering* the tools, methods, or frameworks necessary to explore the problem. 
-    * **Publications about the Results**, presenting findings from explorations and experiments. *What have we found out so far?*
+* **Publication about your Vision**, right at the beginning, where you articulate your understanding of the research field and outline a forward-looking vision. *Where is this program taking us?*
+* **Experimentation Plan**, that will lead to *datasets of relevant research data* to subsidize the exploration. *How will we prove it?*
+* **Regular Publications about the Results**, presenting findings from Experiments and analysis of the datasets. *What have we found out so far?*
+* **Support to Grant Application(s)**, opening pathways for independent research and funding.
+
+**PhD Research Programs**
+
+Develop deep expertise and produce original contributions. A good program must include:
+
+* **Research Proposal**, following the guidelines outlined above. This is a "day 1" thing and we will be revising regularly. 
+* **Regular checkpoints**, where you present what you are thinking, what you have found out so far, and your plan ahead. This is to keep you on track.
+* **Publication about your Vision**,  outlining your understanding  about the vision, challenges, and opportunities. Even if the ideas are preliminary, this will become a key document to support your answer to that tricky question: "what is your research about?"
+* **Regular Publications about the Results**, presenting findings from explorations and experiments. *What have we found out so far?*
+* **Support to Grant Application(s)**, opening pathways for independent research and funding.
+
+**Master Research Programs**
+
+Develop solid research skills while contributing with a meaningful project. A good program must include: 
+
+* **Program Outline**, including the basic items from the **Research Proposal** outlined above, tailored to what makes sense for this level of research.
+* **Regular checkpoints**, where you present what you are thinking, what you have found out so far, and your plan ahead. This is to keep you on track.
+* **Learning the Right Techniques**, that is *mastering* the tools, methods, or frameworks necessary to explore the problem. 
+* **Publications about the Results**, presenting findings from explorations and experiments. *What have we found out so far?*
 
 
 ## Reap the Rewards
