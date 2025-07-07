@@ -1,11 +1,10 @@
 
-#
 
 # My Philosophy on Academic Advisory
 
 Thank you for considering me as your academic advisor.
 
-My role is to help researchers think strategically, publish effectively, innovate meaningfully, and most importantly, **conduct research that matters**. In order to create academic success, we must focus on real problems, pursue rigorous inquiry, and deliver tangible results. My advise follows four steps:
+My role as an Academic Advisor is to help early-career researchers think strategically, publish effectively, innovate meaningfully, and most importantly, **conduct research that matters**. In order to create academic success, we must focus on real problems, pursue rigorous inquiry, and deliver tangible results. My advise follows four steps:
 
 * [Step 1: Start Strong](#star-strong)
 * [Step 2: Deliver Results](#deliver-results)
