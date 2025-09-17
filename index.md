@@ -21,7 +21,8 @@ Dr. Koch is an enthusiast of building and applying AI-powered platforms as syste
 <p>
 <ul>
 <li><a href="https://fau.simplesyllabus.com/doc/em80vs56l/Fall-2025-1-Full-Term-COT-6930-004-Topics-in-Computer-Science?mode=view">COT6930 - Generative AI in Software Development Lifecycles</a></li>
-<li><a href="https://fau.simplesyllabus.com/doc/yolipf0x2/Spring-2025-1-Full-Term-CEN-4010-001-Prin-Software-Engineering?mode=view">CEN4010 - Software Engineering with Generative AI</a></li>
+<li><a href="https://fau.simplesyllabus.com/doc/em80vs56l/Fall-2025-1-Full-Term-COT-6930-004-Topics-in-Computer-Science?mode=view">CEN4010 - Introducetion to Data Science in the era of Generative AI</a></li>
+<li><a href="https://fau.simplesyllabus.com/api2/doc-pdf/vu2oezhle/Fall-2025-1-Full-Term-CAP-4773-005-Intro-Data-Science-Analytics.pdf?locale=en-US">CEN4010 - Software Engineering with Generative AI</a></li>
 <li><a href="https://www.fau.edu/engineering/eecs/pdf/syllabus-trustworthy-artificial-intelligence-fall-2024.pdf">CAP4623 - Trustworthy AI</a></li>
 </ul>
 </p>
