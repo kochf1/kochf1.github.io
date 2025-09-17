@@ -3,13 +3,18 @@
 <div class="intro-section">
 <div class="text-content">
 
-<h2>How can we design platforms for collaborative cognition?</h2>
+<h2>How can we design platforms for Collaborative Cognition?</h2>
 
-<p>Dr. Fernando Koch is an expert in Artificial Intelligence and Generative AI, with over 25 years of experience spanning academic research and enterprise innovation. He has held senior roles at IBM and Samsung Research, and academic positions at the University of Melbourne, Korea University, and UNICAMP. He holds a PhD in Computer Science from Utrecht University.</p>
+<p>
+Dr. Fernando Koch is a Research Professor at the Department of Electrical Engineering and Computer Sciences, Florida Atlantic University. He leads <a href='http://www.generativeintelligencelab.ai'>The Generative Intelligence Lab</a> that operates as a Think Tank and Development Studio for GenAI-powered solutions and AI-driven organizations. He is an expert in Artificial Intelligence and Generative Intelligence Systems with a career spanning academic, enterprise, and startup. He has held senior roles at IBM and Samsung Research, and academic positions at the University of Melbourne, Korea University, and UNICAMP, and provides Technical Advisor to multiple startups. 
+</p>
 
-<p>He is an enthusiast about building and applying AI-powered platforms as systematic solutions to pressing social and business challenges. As Director of Research at Samsung, he led the development of a <a href="https://vimeo.com/355487809">Digital Education Platform</a> implemented in over 400 classrooms, positively impacting thousands of students in underserved communities. At IBM, he served as a trusted advisor to C-level executives and deep-tech teams, providing guidance on Data & AI and go-to-market strategies for AI platforms. He holds dozens of patents in Generative and Edge AI and has been recognized as an <a href="https://www.ibm.com/training/badge/master-inventor.1">IBM Master Inventor</a>.</p>
+<p>
+Dr. Koch is an enthusiast of building and applying AI-powered platforms as systematic solutions to pressing social and business challenges. At IBM, he served as a trusted advisor to C-level executives and deep-tech teams, providing guidance on Data & AI and go-to-market strategies for AI platforms. As Director of Research at Samsung, he led the development of a <a href="https://vimeo.com/355487809">Digital Education Platform</a>, which was piloted in over 400 classrooms positively impacting thousands of students in underserved communities.  He holds dozens of patents in Generative and Edge AI and has been recognized as an IBM Master Inventor.
+</p>
 
-<p>Dr. Koch’s research interest sits at the intersection of Computational Intelligence, Human-Machine Collaboration, and Generative Intelligence Systems. Through his research projects, Dr. Koch envisions a future where AI systems are aligned with human values, enhancing our ability to tackle complex challenges in business and society.</p>
+<p>He obtained his Ph.D. in Computer Science from Utrecht University, The Netherlands. His research interests revolve around Generative Intelligence Systems, Human-Machine Collaboration, and AI-Driven Organizations.
+</p>
 
 <p><br/></p>
 <p><strong>Teaching</strong></p>
