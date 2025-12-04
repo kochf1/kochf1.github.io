@@ -6,11 +6,11 @@
 <h2>How can we design platforms for Collaborative Cognition?</h2>
 
 <p>
-Dr. Fernando Koch is a Research Professor at the Department of Electrical Engineering and Computer Sciences, Florida Atlantic University. He leads <a href='http://www.generativeintelligencelab.ai'>The Generative Intelligence Lab</a> that operates as a Think Tank and Development Studio for GenAI-powered solutions and AI-driven organizations. He is an expert in Artificial Intelligence and Generative Intelligence Systems with a career spanning academic, enterprise, and startup. He has held senior roles at IBM and Samsung Research, and academic positions at the University of Melbourne, Korea University, and UNICAMP, and provides Technical Advisor to multiple startups. 
+Dr. Fernando Koch is a Research Professor at the Department of Electrical Engineering and Computer Sciences, Florida Atlantic University. He leads <a href='http://www.generativeintelligencelab.ai'>The Generative Intelligence Lab</a> that operates as a Think Tank and Development Studio for GenAI-powered solutions and AI-driven organizations. He is an expert in Artificial Intelligence and Generative Intelligence Systems with a career spanning academic, enterprise, and startup. He has held senior roles at IBM and Samsung Research, acts as Board Advisor to multiple startups. and has been in academic positions at the University of Melbourne, Korea University, and UNICAMP.
 </p>
 
 <p>
-Dr. Koch is an enthusiast of building and applying AI-powered platforms as systematic solutions to pressing social and business challenges. At IBM, he served as a trusted advisor to C-level executives and deep-tech teams, providing guidance on Data & AI and go-to-market strategies for AI platforms. As Director of Research at Samsung, he led the development of a <a href="https://vimeo.com/355487809">Digital Education Platform</a>, which was piloted in over 400 classrooms positively impacting thousands of students in underserved communities.  He holds dozens of patents in Generative and Edge AI and has been recognized as an IBM Master Inventor.
+Dr. Koch is an enthusiast of building and applying AI-powered platforms as systematic solutions to pressing social and business challenges. At IBM, he served as a trusted advisor to C-level executives and deep-tech teams, providing guidance on Data & AI and go-to-market strategies for AI platforms. As Director of Research at Samsung, he led the development of a <a href="https://vimeo.com/355487809">Digital Education Platform</a>, which was applied in hundredds of classrooms in underserved communities.
 </p>
 
 <p>He obtained his Ph.D. in Computer Science from Utrecht University, The Netherlands. His research interests revolve around Generative Intelligence Systems, Human-Machine Collaboration, and AI-Driven Organizations.
@@ -21,8 +21,9 @@ Dr. Koch is an enthusiast of building and applying AI-powered platforms as syste
 <p>
 <ul>
 <li><a href="https://fau.simplesyllabus.com/doc/em80vs56l/Fall-2025-1-Full-Term-COT-6930-004-Topics-in-Computer-Science?mode=view">COT6930 - Generative AI in Software Development Lifecycles</a></li>
-<li><a href="https://fau.simplesyllabus.com/doc/em80vs56l/Fall-2025-1-Full-Term-COT-6930-004-Topics-in-Computer-Science?mode=view">CEN4010 - Introducetion to Data Science in the era of Generative AI</a></li>
-<li><a href="https://fau.simplesyllabus.com/api2/doc-pdf/vu2oezhle/Fall-2025-1-Full-Term-CAP-4773-005-Intro-Data-Science-Analytics.pdf?locale=en-US">CEN4010 - Software Engineering with Generative AI</a></li>
+<li><a href="https://fau.simplesyllabus.com/doc/lkk5mh74f/Spring-2026-1-Full-Term-CAP-4630-001-Intro-Artificial-Intelligence?mode=view">CAP4630 - Artificial Intelligence</a></li>
+<li><a href="https://fau.simplesyllabus.com/api2/doc-pdf/vu2oezhle/Fall-2025-1-Full-Term-CAP-4773-005-Intro-Data-Science-Analytics.pdf?locale=en-US">CAP4773 - Introduction to Data Science in the era of Generative AI</a></li>
+<li><a href="https://fau.simplesyllabus.com/en-US/doc/wczutc1uk/Spring-2025-1-Full-Term-CEN-4010-042-?mode=view">CEN4010 - Software Engineering with Generative AI</a></li>
 <li><a href="https://www.fau.edu/engineering/eecs/pdf/syllabus-trustworthy-artificial-intelligence-fall-2024.pdf">CAP4623 - Trustworthy AI</a></li>
 </ul>
 </p>
