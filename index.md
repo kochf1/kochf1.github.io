@@ -8,16 +8,16 @@ I am interested in how frontier AI influences social behavior, enterprise archit
 
 <ul>
 <li><strong>AI-driven organizations</strong> -- I believe organizations will be designed around AI-first workflows in which human and artificial reasoning are part of the operating model. I am experimenting with adaptive workflows, canonical architectures for agentic pipelines, and multi-level reasoning in which one level observes and adjusts the next.</li>
-<li><strong>Agent-Oriented Solution Engineering</strong> -- I see the need to create AI workflows that can act autonomously, observe changing conditions, adapt their behavior, and reconfigure their operations. I am looking into common elements and reusable architectures, representations for defining workflows in agentic AI pipelines, agent-oriented architectures, and multi-agent compositions.</li>
+<li><strong>Agent-Oriented Solution Engineering</strong> -- I explore how to structure the process of creating adaptive  AI workflows that can act autonomously, observe changing conditions, adapt their behavior, and reconfigure their operations. I am looking into common elements and reusable architectures, representations for defining workflows in agentic AI pipelines, agent-oriented architectures, and multi-agent compositions.</li>
 <li><strong>Social skills of AI agents</strong> -- I expect AI agents to require social skills to work within human-agent workflows. I am exploring the structures that help people and AI agents understand roles, coordinate contributions, act with accountability, and form collective intelligence.</li>
 </ul>
 
 <p>
-I work across industry and academia, bridging frontier research and enterprise application. At TELUS Digital, I translate frontier AI research into enterprise strategy, architecture, and systems for complex operating environments. As an Industry Professor at Florida Atlantic University and Director of the <a href="http://www.generativeintelligencelab.ai">Generative Intelligence Lab</a>, I connect industry demand with frontier AI research, teaching, and practical exploration. I have held senior roles at IBM and Samsung Research and serve as a Board Advisor to multiple startups.
+I work across industry and academia, bridging frontier research and enterprise application. At TELUS Digital, I translate frontier AI research into enterprise strategy, architecture, and systems for complex operating environments. As an Industry Professor at Florida Atlantic University and Director of the Generative Intelligence Lab, I connect industry demand with frontier AI research, teaching, and practical exploration. I have held senior roles at IBM and Samsung Research and serve as a Board Advisor to multiple startups.
 </p>
 
 <p>
-I hold a Ph.D. in Computer Science from Utrecht University, have <a href="https://www.amazon.com/s?k=Fernando+Koch">co-edited six books</a>, <a href="https://scholar.google.com/citations?hl=en&amp;user=-jD2UDsAAAAJ&amp;view_op=list_works&amp;sortby=pubdate">published more than 90 scientific publications</a>, and hold <a href="https://scholar.google.com/citations?hl=en&amp;user=-jD2UDsAAAAJ&amp;view_op=list_works&amp;sortby=pubdate">more than 100 patents</a>.
+I hold a Ph.D. in Computer Science from Utrecht University, have <a href="https://www.amazon.com/s?k=Fernando+Koch">co-edited six books</a>,  published more than  <a href="https://scholar.google.com/citations?hl=en&amp;user=-jD2UDsAAAAJ&amp;view_op=list_works&amp;sortby=pubdate">90 scientific publications</a>, and hold <a href="https://scholar.google.com/citations?hl=en&amp;user=-jD2UDsAAAAJ&amp;view_op=list_works&amp;sortby=pubdate">more than 100 patents</a>.
 </p>
 
 <p><strong>Teaching</strong></p>
