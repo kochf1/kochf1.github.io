@@ -759,3 +759,45 @@ table td {
 .highlight .il {
     color: #099
 }
+
+/* === SITE-SPECIFIC HOMEPAGE OVERRIDES === */
+
+:root {
+  --site-page-width: 980px;
+  --site-intro-gap: 36px;
+  --site-image-width: 280px;
+  --site-bullet-gap: 12px;
+}
+
+.wrapper {
+  max-width: var(--site-page-width);
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.intro-section {
+  gap: var(--site-intro-gap);
+}
+
+.text-content {
+  flex: 1 1 auto;
+}
+
+.image-content {
+  flex: 0 0 var(--site-image-width);
+}
+
+.text-content > ul > li + li {
+  margin-top: var(--site-bullet-gap);
+}
+
+@media screen and (max-width: 600px) {
+  .wrapper {
+    max-width: 100%;
+  }
+
+  .text-content,
+  .image-content {
+    flex: 0 0 100%;
+  }
+}
