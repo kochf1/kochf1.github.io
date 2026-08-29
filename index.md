@@ -10,7 +10,7 @@ I am interested in how frontier AI influences social behavior, enterprise archit
 
 * **Agent-Oriented Solution Engineering** -- I see the need to create AI workflows that can act autonomously, observe changing conditions, adapt their behavior, and reconfigure their operations. I am looking into common elements and reusable architectures, representations for defining workflows in agentic AI pipelines, agent-oriented architectures, and multi-agent compositions.</li>
 
-* **ASocial skills of AI agents** -- I expect AI agents to require social skills to work within human-agent workflows. I am exploring the structures that help people and AI agents understand roles, coordinate contributions, act with accountability, and form collective intelligence.</li>
+* **Social skills of AI agents** -- I expect AI agents to require social skills to work within human-agent workflows. I am exploring the structures that help people and AI agents understand roles, coordinate contributions, act with accountability, and form collective intelligence.</li>
 </ul>
 </p>
 
@@ -23,7 +23,9 @@ I hold a Ph.D. in Computer Science from Utrecht University, have <a href="https:
 </p>
 
 <p>
+  
 ### Teaching
+
 * **CEN4010 - Principles of Software Engineering** [<a href="https://fau.simplesyllabus.com/en-US/doc/qwdc2gdkw/Fall-2026-1-Full-Term-CEN-4010-001-Prin-Software-Engineering?mode=view">Syllabus</a>] [<a href="https://drive.google.com/file/d/1bEEQ12l66vyYbn301TFB99XmpS9KejBF/view?usp=drive_link">Overview</a>]</li>
 * **COT6930 - Generative AI in Software Development Lifecycles** [<a href="https://fau.simplesyllabus.com/en-US/doc/w803j6asg/Spring-2026-1-Full-Term-COT-6930-001-Topics-in-Computer-Science?mode=view">Syllabus</a>]</li>
 * **CAP4630 - Artificial Intelligence** [<a href="https://fau.simplesyllabus.com/doc/lkk5mh74f/Spring-2026-1-Full-Term-CAP-4630-001-Intro-Artificial-Intelligence?mode=view">Syllabus</a>]</li>
