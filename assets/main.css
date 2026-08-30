@@ -788,7 +788,7 @@ table td {
 }
 
 .text-content > ul > li + li {
-  margin-top: var(--site-bullet-gap);
+  padding-top: var(--site-bullet-gap);
 }
 
 @media screen and (max-width: 600px) {

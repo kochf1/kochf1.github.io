@@ -8,7 +8,7 @@ I am interested in how frontier AI influences social behavior, enterprise archit
 
 <ul>
 <li><strong>AI-driven organizations</strong> -- I believe organizations will be designed around AI-first workflows in which human and artificial reasoning are part of the operating model. I am experimenting with adaptive workflows, canonical architectures for agentic pipelines, and multi-level reasoning in which one level observes and adjusts the next.</li>
-<li><strong>Agent-Oriented Solution Engineering</strong> -- I explore how to structure the process of creating adaptive  AI workflows that can act autonomously, observe changing conditions, adapt their behavior, and reconfigure their operations. I am looking into common elements and reusable architectures, representations for defining workflows in agentic AI pipelines, agent-oriented architectures, and multi-agent compositions.</li>
+<li><strong>Agentic-Oriented Solution Engineering</strong> -- I explore how to structure the process of creating adaptive  AI workflows that can act autonomously, observe changing conditions, adapt their behavior, and reconfigure their operations. I am looking into common elements and reusable architectures, representations for defining workflows in agentic AI pipelines, agentic-oriented architectures, and multi-agent compositions.</li>
 <li><strong>Social skills of AI agents</strong> -- I expect AI agents to require social skills to work within human-agent workflows. I am exploring the structures that help people and AI agents understand roles, coordinate contributions, act with accountability, and form collective intelligence.</li>
 </ul>
 
