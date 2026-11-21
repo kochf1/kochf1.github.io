@@ -14,7 +14,7 @@ I am interested in how frontier AI can reshape business development, innovation,
 </ul>
 
 <p>
-My current work spans Generative AI, agentic AI, and teaching AI-enabled CTOs, alongside collaborations among academia, startups, and industry on applied AI and technology transfer. My <a href="http://www.generativeintelligencelab.ai">Generative Intelligence Lab</a> focuses on translational research on frontier AI systems. We examine how frontier AI reshapes enterprise architecture, human-machine collaboration, and organizational reasoning, following a research path from industry demand and research argument to innovation, experimentation, and provable results.
+My current work spans Generative AI, agentic AI, and teaching AI-enabled CTOs, alongside collaborations among academia, startups, and industry on applied AI and technology transfer. In the Generative Intelligence Lab, we think differently about how frontier AI can serve business and society. We welcome unconventional ideas about how AI systems should work and design experiments to put those ideas to the test.
 </p>
 
 <p>
