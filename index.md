@@ -3,13 +3,14 @@
 <h2>How can frontier AI help organizations create new value, and operate as unified intelligences?</h2>
 
 <p>
-I am interested in how frontier AI can reshape business development, innovation, and the systems through which organizations create value. I work at the boundary of research and innovation, developing ideas, architectures, and experiments that turn demanding social and business questions into genuinely new systems. I am an enthusiast of building and applying AI-powered platforms. My vision centers on some convictions:
+I am interested in how frontier AI can reshape business development, innovation, and the systems through which organizations create value. I work at the boundary of research and innovation, developing ideas, architectures, and experiments that turn demanding social and business questions into genuinely new systems. I believe research and innovation must think differently about how people, AI agents, and intelligent devices interact, and about the data that makes those interactions possible. I promote new forms of human-AI collaboration, agentic workflows, and data engineering capable of meeting the demands of AGI and Physical AI. My vision centers on these convictions:
 </p>
 
 <ul>
-<li><strong>Social skills of AI agents</strong> -- I am convinced that AI creates greater value when people and AI agents understand their roles, coordinate their contributions, and make decisions together. I explore the interaction models, representations, and forms of accountability that make this possible.</li>
-<li><strong>Highly Adaptive AI systems</strong> -- I believe AI systems will learn, improve, and evolve as conditions change. I investigate the architectures, evaluation methods, and safeguards that keep them purposeful, measurable, and safe.</li>
-<li><strong>Agentic-Oriented Solution Engineering and AI Trust</strong> -- I promote new engineering concepts and tools for AI systems that continue to learn and change after deployment. I explore how evidence, security, observability, reliability, and control can make these systems worthy of trust.</li>
+<li><strong>Social skills of AI agents</strong> -- I am convinced that AI creates greater value when people and AI interact more naturally, understand their roles, and make decisions together.</li>
+<li><strong>Adaptive intelligence</strong> -- I believe AI systems will learn, improve, and evolve autonomously as conditions change. We need new ways to guide, evaluate, and govern systems that adapt their own behavior.</li>
+<li><strong>AI Trust</strong> -- I explore how frontier AI can earn trust as it evolves, so that people can understand its actions, challenge its decisions, and remain in control of its consequences.</li>
+<li><strong>Agentic-Oriented Solution Engineering</strong> -- I promote new engineering concepts and practical tools that help AI-enabled CTOs create and govern AI systems that continue to learn and change after deployment.</li>
 </ul>
 
 <p>
