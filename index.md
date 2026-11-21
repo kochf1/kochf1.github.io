@@ -1,27 +1,23 @@
 <div class="intro-section">
 <div class="text-content">
-<h2>How can we enable organizations to become AI-driven and operate as unified intelligences?</h2>
+<h2>How can frontier AI help organizations create new value, and operate as unified intelligences?</h2>
 
 <p>
-I am interested in how frontier AI influences social behavior, enterprise architecture, and human-machine collaboration, and how these changes can support organizations designed as adaptive, collective intelligence. I am an enthusiast of building and applying AI-powered platforms as systematic solutions to pressing social and business challenges. My vision centers on some convictions:
+I am interested in how frontier AI can reshape business development, innovation, and the systems through which organizations create value. I work at the boundary of research and innovation, developing ideas, architectures, and experiments that turn demanding social and business questions into genuinely new systems. I am an enthusiast of building and applying AI-powered platforms. My vision centers on some convictions:
 </p>
 
 <ul>
-<li><strong>AI-driven organizations</strong> -- I believe organizations will be designed around AI-first workflows in which human and artificial reasoning are part of the operating model. I am experimenting with adaptive workflows, canonical architectures for agentic pipelines, and multi-level reasoning in which one level observes and adjusts the next.</li>
-<li><strong>Agentic-Oriented Solution Engineering</strong> -- I explore how to structure the process of creating adaptive  AI workflows that can act autonomously, observe changing conditions, adapt their behavior, and reconfigure their operations. I am looking into common elements and reusable architectures, representations for defining workflows in agentic AI pipelines, agentic-oriented architectures, and multi-agent compositions.</li>
-<li><strong>Social skills of AI agents</strong> -- I expect AI agents to require social skills to work within human-agent workflows. I am exploring the structures that help people and AI agents understand roles, coordinate contributions, act with accountability, and form collective intelligence.</li>
+<li><strong>Social skills of AI agents</strong> -- I am convinced that AI creates greater value when people and AI agents understand their roles, coordinate their contributions, and make decisions together. I explore the interaction models, representations, and forms of accountability that make this possible.</li>
+<li><strong>Highly Adaptive AI systems</strong> -- I believe AI systems will learn, improve, and evolve as conditions change. I investigate the architectures, evaluation methods, and safeguards that keep them purposeful, measurable, and safe.</li>
+<li><strong>Agentic-Oriented Solution Engineering and AI Trust</strong> -- I promote new engineering concepts and tools for AI systems that continue to learn and change after deployment. I explore how evidence, security, observability, reliability, and control can make these systems worthy of trust.</li>
 </ul>
 
 <p>
-<a href="https://www.linkedin.com/in/fkoch/">I work across industry and academia</a>, bridging frontier research and enterprise application. At TELUS Digital, I translate frontier AI research into enterprise strategy, architecture, and systems for complex operating environments.
+My current work spans Generative AI, agentic AI, and teaching AI-enabled CTOs, alongside collaborations among academia, startups, and industry on applied AI and technology transfer. My <a href="http://www.generativeintelligencelab.ai">Generative Intelligence Lab</a> focuses on translational research on frontier AI systems. We examine how frontier AI reshapes enterprise architecture, human-machine collaboration, and organizational reasoning, following a research path from industry demand and research argument to innovation, experimentation, and provable results.
 </p>
 
 <p>
-As an Industry Professor at Florida Atlantic University and Director of the Generative Intelligence Lab, I connect industry demand with frontier AI research, teaching, and practical exploration. I have held senior roles at IBM and Samsung Research and serve as a Board Advisor to multiple startups.
-</p>
-
-<p>
-I hold a Ph.D. in Computer Science from Utrecht University, have <a href="https://www.amazon.com/s?k=Fernando+Koch">co-edited six books</a>,  published <a href="https://scholar.google.com/citations?hl=en&amp;user=-jD2UDsAAAAJ&amp;view_op=list_works&amp;sortby=pubdate">90+ scientific publications</a>, and hold <a href="https://scholar.google.com/citations?hl=en&amp;user=-jD2UDsAAAAJ&amp;view_op=list_works&amp;sortby=pubdate">100+ patents</a>.
+I hold a Ph.D. in Computer Science from Utrecht University, have published 100+ scientific papers, co-edited six books, and hold 90+ patents.
 </p>
 
 <p><strong>Teaching</strong></p>
@@ -36,7 +32,7 @@ I hold a Ph.D. in Computer Science from Utrecht University, have <a href="https:
 <p><strong>Links</strong></p>
 <ul>
 <li><a href="https://www.linkedin.com/in/fkoch/">LinkedIn</a></li>
-<li><a href="https://scholar.google.com/citations?hl=en&amp;user=-jD2UDsAAAAJ&amp;view_op=list_works&amp;sortby=pubdate">Google Scholar</a></li>
+<li><a href="/publications">Publications</a></li>
 <li><a href="https://speakers.acm.org/speakers/koch_23690">ACM Distinguished Speaker</a></li>
 <li><a href="./minibio.html">Minibio</a></li>
 <li><a href="http://www.generativeintelligencelab.ai">Generative Intelligence Lab</a></li>
